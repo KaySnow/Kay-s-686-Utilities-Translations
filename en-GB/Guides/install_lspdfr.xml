@@ -45,10 +45,10 @@ It will take you through the first-time setup, and then launch GTAV.
     <ImageUrl>https://i.imgur.com/UpFP9YY.png</ImageUrl>
 
     <Fields>
-      <Field name="Before you play, make sure:" inline="true"><![CDATA[
+      <Field name="Before you play, make sure:" inline="false"><![CDATA[
 You have already completed the prologue for GTAV. LSPDFR requires you to be in free-roam to work correctly.
 ]]></Field>
-      <Field name="I am in game with RAGEPluginHook, however LSPDFR is not loaded?" inline="true"><![CDATA[
+      <Field name="I am in game with RAGEPluginHook, however LSPDFR is not loaded?" inline="false"><![CDATA[
 You may need to load it in game. Open the RPH console (F4 by default), and type in `LoadPlugin LSPD First Response.dll`.
 ]]></Field>
     </Fields>
