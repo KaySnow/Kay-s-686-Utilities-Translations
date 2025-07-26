@@ -34,8 +34,6 @@ We recommend installing all 4 components for the best experience.
 4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
 
 5. When prompted, install to **mods** folder.
-
-6. Finally, drag and drop the `plugins` folder from the archive into your GTAV main directory.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
@@ -72,6 +70,8 @@ We recommend installing all 4 components for the best experience.
 3. Download [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) and extract it.
 
 4. Drag `RAGENativeUI.dll` into your GTAV main directory.
+
+5. Note that your EUP customisation files are generated when you first load EUP Menu in game.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
@@ -85,8 +85,8 @@ We recommend installing all 4 components for the best experience.
 [**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
 
 2. Choose either:  
-- `EUPFR Basic - without addon cars`, or  
-- `EUPFR UE - without car mods` (if using Ultimate Edition).
+ - `EUPFR Basic - without addon cars`, or  
+ - `EUPFR UE - without car mods` (if using Ultimate Edition).
 
 3. Open the selected folder and locate the `data` folder.
 
