@@ -28,7 +28,6 @@ If your siren mod comes with a `.oac` file and a `vehicles` folder, follow these
 
 🚨 If prompted to overwrite, click **Yes**.
     ]]></Description>
-    <ImageUrl>https://i.imgur.com/UbAjTeF.png</ImageUrl>
   </Page>
 
   <Page id="format_awc">
@@ -40,10 +39,7 @@ If your siren mod comes with a precompiled `vehicles.awc` file:
    `GTAV/mods/x64/audio/sfx/resident.rpf`
 2. Enable **Edit Mode**.
 3. Drag and drop the `vehicles.awc` file into this folder.
-
-🧠 This method skips the `.oac` process but overwrites your existing sirens directly.
     ]]></Description>
-    <ImageUrl>https://i.imgur.com/UncM3Tz.png</ImageUrl>
   </Page>
 
   <Page id="format_wav">
