@@ -39,7 +39,6 @@ We recommend installing all 4 components for the best experience.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
-      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -59,7 +58,6 @@ We recommend installing all 4 components for the best experience.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
-      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -77,7 +75,6 @@ We recommend installing all 4 components for the best experience.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
-      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -97,8 +94,5 @@ We recommend installing all 4 components for the best experience.
 
 5. Replace files if prompted.
     ]]></Description>
-    <Buttons>
-      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
-    </Buttons>
   </Page>
 </Guide>
