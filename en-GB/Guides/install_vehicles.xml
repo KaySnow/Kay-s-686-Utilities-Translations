@@ -34,7 +34,7 @@ If it comes with a full folder and instructions about `dlclist.xml`, it's likely
     <ImageUrl>https://i.imgur.com/QbrJ3fA.png</ImageUrl>
     <Buttons>
       <Button type="ephemeral" targetPage="els"><![CDATA[Are these ELS vehicles?]]></Button>
-      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[I can't drag & drop the file]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[I can't drag & drop / edit the file]]></Button>
     </Buttons>
   </Page>
 
@@ -48,12 +48,12 @@ If it comes with a full folder and instructions about `dlclist.xml`, it's likely
 
 <Item>dlcpacks:/carpack/</Item>
 
-🔁 Replace `DLC folder` with the actual name of the vehicle's folder you added in step 2.
+🔁 Replace `carpack` with the actual name of the vehicle's folder you added in step 2.
     ]]></Description>
     <ImageUrl>https://i.imgur.com/peQEB2g.png</ImageUrl>
     <Buttons>
       <Button type="ephemeral" targetPage="els"><![CDATA[Are these ELS vehicles?]]></Button>
-      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[I can't drag & drop the file]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[I can't drag & drop / edit the file]]></Button>
     </Buttons>
   </Page>
 
