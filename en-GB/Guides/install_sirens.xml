@@ -1,0 +1,69 @@
+<Guide id="install_sirens" name="How to Install Sirens">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Installing Sirens]]></Title>
+    <Description><![CDATA[
+Sirens can come in several different formats. The steps to install them vary depending on what you've downloaded.
+
+**What format is your siren mod in?**
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="format_oac"><![CDATA[.oac File (OpenFormats)]]></Button>
+      <Button type="interactive" targetPage="format_awc"><![CDATA[.awc File Only]]></Button>
+      <Button type="interactive" targetPage="format_wav"><![CDATA[.wav Files Only]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="format_oac">
+    <Title><![CDATA[Installing a .oac Siren Pack]]></Title>
+    <Description><![CDATA[
+If your siren mod comes with a `.oac` file and a `vehicles` folder, follow these steps:
+
+1. Open OpenIV and go to:  
+   `GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Make sure **Edit Mode** is enabled.
+3. Drag and drop the `.oac` file into this folder.  
+   (It will rebuild `vehicles.awc` automatically.)
+
+🚨 If prompted to overwrite, click **Yes**.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/UbAjTeF.png</ImageUrl>
+  </Page>
+
+  <Page id="format_awc">
+    <Title><![CDATA[Installing a .awc Siren Pack]]></Title>
+    <Description><![CDATA[
+If your siren mod comes with a precompiled `vehicles.awc` file:
+
+1. Open OpenIV and go to:  
+   `GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Enable **Edit Mode**.
+3. Drag and drop the `vehicles.awc` file into this folder.
+
+🧠 This method skips the `.oac` process but overwrites your existing sirens directly.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/UncM3Tz.png</ImageUrl>
+  </Page>
+
+  <Page id="format_wav">
+    <Title><![CDATA[Installing .wav Siren Files]]></Title>
+    <Description><![CDATA[
+If your siren mod comes with raw `.wav` files only:
+
+1. Open OpenIV and go to:  
+   `GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Right-click `vehicles.awc` > **Export to OpenFormats**  
+   Export to an empty folder.
+3. You will now see a `vehicles` folder and a `.oac` file.
+4. Replace the `.wav` files inside the `vehicles` folder with the ones from your siren mod.
+5. Drag the `.oac` file back into `resident.rpf` to rebuild the `.awc`.
+
+📺 Need help? Watch this video guide:  
+[YouTube: Install Sirens with .wav files](https://www.youtube.com/watch?v=ymLrNTjGBXA)
+    ]]></Description>
+    <Buttons>
+      <Button type="link" url="https://www.youtube.com/watch?v=ymLrNTjGBXA"><![CDATA[Watch Video Guide]]></Button>
+    </Buttons>
+  </Page>
+</Guide>
