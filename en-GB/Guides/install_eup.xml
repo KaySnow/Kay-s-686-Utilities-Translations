@@ -12,12 +12,12 @@ Emergency Uniforms Pack (EUP) adds high-quality law enforcement, rescue, and civ
 **EUP Configurations** – Adds outfit presets and configuration files for use with LSPDFR characters.
 
 We recommend installing all 4 components for the best experience.
-]]></Description>
+    ]]></Description>
     <Buttons>
-      <Button type="interactive" label="Install Law & Order Pack" targetPage="laworder"/>
-      <Button type="interactive" label="Install Serve & Rescue Pack" targetPage="serveandrescue"/>
-      <Button type="interactive" label="Install EUP Menu" targetPage="menu"/>
-      <Button type="interactive" label="Install Configurations" targetPage="config"/>
+      <Button type="interactive" targetPage="laworder"><![CDATA[Install Law & Order Pack]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
     </Buttons>
   </Page>
 
@@ -36,10 +36,10 @@ We recommend installing all 4 components for the best experience.
 5. When prompted, install to **mods** folder.
 
 6. Finally, drag and drop the `plugins` folder from the archive into your GTAV main directory.
-]]></Description>
+    ]]></Description>
     <Buttons>
-      <Button type="interactive" label="Install Serve & Rescue Pack" targetPage="serveandrescue"/>
-      <Button type="interactive" label="Back to Start" targetPage="home"/>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
+      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -56,10 +56,10 @@ We recommend installing all 4 components for the best experience.
 4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
 
 5. When prompted, install to **mods** folder.
-]]></Description>
+    ]]></Description>
     <Buttons>
-      <Button type="interactive" label="Install EUP Menu" targetPage="menu"/>
-      <Button type="interactive" label="Back to Start" targetPage="home"/>
+      <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
+      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -74,10 +74,10 @@ We recommend installing all 4 components for the best experience.
 3. Download [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) and extract it.
 
 4. Drag `RAGENativeUI.dll` into your GTAV main directory.
-]]></Description>
+    ]]></Description>
     <Buttons>
-      <Button type="interactive" label="Install Configurations" targetPage="config"/>
-      <Button type="interactive" label="Back to Start" targetPage="home"/>
+      <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
+      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 
@@ -87,7 +87,7 @@ We recommend installing all 4 components for the best experience.
 1. Download the configuration files:  
 [**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
 
-2. Choose either:
+2. Choose either:  
 - `EUPFR Basic - without addon cars`, or  
 - `EUPFR UE - without car mods` (if using Ultimate Edition).
 
@@ -96,9 +96,9 @@ We recommend installing all 4 components for the best experience.
 4. Drag and drop the `data` folder into `GTAV/lspdfr`.
 
 5. Replace files if prompted.
-]]></Description>
+    ]]></Description>
     <Buttons>
-      <Button type="interactive" label="Back to Start" targetPage="home"/>
+      <Button type="interactive" targetPage="home"><![CDATA[Back to Start]]></Button>
     </Buttons>
   </Page>
 </Guide>
