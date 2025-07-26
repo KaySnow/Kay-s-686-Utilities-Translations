@@ -1,0 +1,104 @@
+<Guide id="install_eup" name="How to Install EUP">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[How do I install EUP?]]></Title>
+    <Description><![CDATA[
+Emergency Uniforms Pack (EUP) adds high-quality law enforcement, rescue, and civilian uniforms to GTA V. It’s split into several components:
+
+**EUP Law & Order** – The core pack containing standard police uniforms and equipment.  
+**EUP Serve & Rescue** – Adds fire, EMS, and other emergency service outfits (optional, but recommended).  
+**EUP Menu** – Allows you to browse and apply EUP outfits in-game via a user-friendly menu.  
+**EUP Configurations** – Adds outfit presets and configuration files for use with LSPDFR characters.
+
+We recommend installing all 4 components for the best experience.
+]]></Description>
+    <Buttons>
+      <Button type="interactive" label="Install Law & Order Pack" targetPage="laworder"/>
+      <Button type="interactive" label="Install Serve & Rescue Pack" targetPage="serveandrescue"/>
+      <Button type="interactive" label="Install EUP Menu" targetPage="menu"/>
+      <Button type="interactive" label="Install Configurations" targetPage="config"/>
+    </Buttons>
+  </Page>
+
+  <Page id="laworder">
+    <Title><![CDATA[Installing EUP Law & Order Pack]]></Title>
+    <Description><![CDATA[
+1. Download EUP Law & Order:  
+[**EUP Law & Order (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/)
+
+2. Download `EUPLO8.3.rar` (not the LML package) and extract it.
+
+3. Drag the `.OIV` file onto your desktop.
+
+4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
+
+5. When prompted, install to **mods** folder.
+
+6. Finally, drag and drop the `plugins` folder from the archive into your GTAV main directory.
+]]></Description>
+    <Buttons>
+      <Button type="interactive" label="Install Serve & Rescue Pack" targetPage="serveandrescue"/>
+      <Button type="interactive" label="Back to Start" targetPage="home"/>
+    </Buttons>
+  </Page>
+
+  <Page id="serveandrescue">
+    <Title><![CDATA[Installing EUP Serve & Rescue Pack]]></Title>
+    <Description><![CDATA[
+1. Download EUP Serve & Rescue:  
+[**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
+
+2. Download `EUPSR1.4.rar` (not the LML package) and extract it.
+
+3. Drag the `.OIV` file onto your desktop.
+
+4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
+
+5. When prompted, install to **mods** folder.
+]]></Description>
+    <Buttons>
+      <Button type="interactive" label="Install EUP Menu" targetPage="menu"/>
+      <Button type="interactive" label="Back to Start" targetPage="home"/>
+    </Buttons>
+  </Page>
+
+  <Page id="menu">
+    <Title><![CDATA[Installing EUP Menu]]></Title>
+    <Description><![CDATA[
+1. Download EUP Menu:  
+[**EUP Menu (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/)
+
+2. Drag and drop the `plugins` folder into your GTAV main directory.
+
+3. Download [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) and extract it.
+
+4. Drag `RAGENativeUI.dll` into your GTAV main directory.
+]]></Description>
+    <Buttons>
+      <Button type="interactive" label="Install Configurations" targetPage="config"/>
+      <Button type="interactive" label="Back to Start" targetPage="home"/>
+    </Buttons>
+  </Page>
+
+  <Page id="config">
+    <Title><![CDATA[Installing EUP Configurations]]></Title>
+    <Description><![CDATA[
+1. Download the configuration files:  
+[**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
+
+2. Choose either:
+- `EUPFR Basic - without addon cars`, or  
+- `EUPFR UE - without car mods` (if using Ultimate Edition).
+
+3. Open the selected folder and locate the `data` folder.
+
+4. Drag and drop the `data` folder into `GTAV/lspdfr`.
+
+5. Replace files if prompted.
+]]></Description>
+    <Buttons>
+      <Button type="interactive" label="Back to Start" targetPage="home"/>
+    </Buttons>
+  </Page>
+</Guide>
