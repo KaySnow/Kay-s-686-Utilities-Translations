@@ -1,0 +1,85 @@
+<Guide id="install_vehicles_lspdfr" name="How to Install LSPDFR Vehicles">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Replace vs Addon Vehicles]]></Title>
+    <Description><![CDATA[
+When installing vehicles in LSPDFR, you generally have two options:
+
+- **Replace Vehicles** overwrite an existing in-game vehicle (e.g. police3) by placing files into the latest patchday folder.
+- **Addon Vehicles** create entirely new vehicle slots by adding a new DLC entry in your game files.
+
+🚨 **Note:** These categories are not always strict. Sometimes, vehicle packs may be designed to replace but are installed like addons, and vice versa.
+    ]]></Description>
+    <Fields>
+      <Field name="Which one should I use?" inline="false"><![CDATA[
+If your vehicle pack comes with `.yft` and `.ytd` files, it’s likely a **replace** pack.  
+If it comes with a full folder and instructions about `dlclist.xml`, it's likely an **addon**.
+      ]]></Field>
+    </Fields>
+    <Buttons>
+      <Button type="interactive" label="Install a Replace Vehicle" targetPage="replace"/>
+      <Button type="interactive" label="Install an Addon Vehicle" targetPage="addon"/>
+    </Buttons>
+  </Page>
+
+  <Page id="replace">
+    <Title><![CDATA[Installing a Replace Vehicle]]></Title>
+    <Description><![CDATA[
+1. Rename your vehicle files if needed (e.g., `police3.yft`, `police3.ytd`, etc).  
+2. Select all relevant `.yft` and `.ytd` files (including those prefixed with `hi_`).  
+3. Drag & drop them into your latest **patchday** using OpenIV. You can find this path using the `/support Replace` command.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/QbrJ3fA.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" label="Are these ELS vehicles?" targetPage="els"/>
+      <Button type="ephemeral" label="I can't drag & drop the file" targetPage="dragdrop"/>
+    </Buttons>
+  </Page>
+
+  <Page id="addon">
+    <Title><![CDATA[Installing an Addon Vehicle]]></Title>
+    <Description><![CDATA[
+1. In OpenIV, go to: `GTAV/mods/update/x64/dlcpacks`  
+2. Drag and drop the entire **vehicle folder** (e.g., `carpack`) into that directory.  
+3. Navigate to: `GTAV/mods/update/update.rpf/common/data/dlclist.xml`  
+4. Add the following line at the bottom of the list:
+
+<Item>dlcpacks:/DLC folder/</Item>
+
+🔁 Replace `DLC folder` with the actual name of the vehicle's folder you added in step 2.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/peQEB2g.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" label="Are these ELS vehicles?" targetPage="els"/>
+      <Button type="ephemeral" label="I can't drag & drop the file" targetPage="dragdrop"/>
+    </Buttons>
+  </Page>
+
+  <!-- Shared ephemeral button pages -->
+
+  <Page id="els">
+    <Title><![CDATA[Make sure to install the ELS file for ELS vehicles!]]></Title>
+    <Description><![CDATA[
+Ensure you install the `.xml` files that come with ELS-enabled vehicle packs.  
+They must go into the following folder:  
+`GTAV/ELS/pack_default`
+
+Without these XML files, emergency lighting may not work correctly.
+    ]]></Description>
+    <Buttons>
+      <Button type="link" label="What is ELS?" url="https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/"/>
+    </Buttons>
+  </Page>
+
+  <Page id="dragdrop">
+    <Title><![CDATA[Unable to drag & drop files into OpenIV]]></Title>
+    <Description><![CDATA[
+Having issues dragging files into OpenIV? Try these steps:
+
+1. Make sure **Edit Mode** is enabled (top right corner).  
+2. Extract the ZIP or RAR download before attempting to install.  
+3. For `.meta`, `.xml`, or text-based files, **right click > Edit** instead of drag-and-drop.
+    ]]></Description>
+  </Page>
+</Guide>
