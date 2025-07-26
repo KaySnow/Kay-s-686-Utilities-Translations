@@ -18,8 +18,8 @@ If it comes with a full folder and instructions about `dlclist.xml`, it's likely
       ]]></Field>
     </Fields>
     <Buttons>
-      <Button type="interactive" label="Install a Replace Vehicle" targetPage="replace"/>
-      <Button type="interactive" label="Install an Addon Vehicle" targetPage="addon"/>
+      <Button type="interactive" targetPage="replace">Install a Replace Vehicle</Button>
+      <Button type="interactive" targetPage="addon">Install an Addon Vehicle</Button>
     </Buttons>
   </Page>
 
@@ -32,8 +32,8 @@ If it comes with a full folder and instructions about `dlclist.xml`, it's likely
     ]]></Description>
     <ImageUrl>https://i.imgur.com/QbrJ3fA.png</ImageUrl>
     <Buttons>
-      <Button type="ephemeral" label="Are these ELS vehicles?" targetPage="els"/>
-      <Button type="ephemeral" label="I can't drag & drop the file" targetPage="dragdrop"/>
+      <Button type="ephemeral" targetPage="els">Are these ELS vehicles?</Button>
+      <Button type="ephemeral" targetPage="dragdrop">I can't drag & drop the file</Button>
     </Buttons>
   </Page>
 
@@ -51,13 +51,11 @@ If it comes with a full folder and instructions about `dlclist.xml`, it's likely
     ]]></Description>
     <ImageUrl>https://i.imgur.com/peQEB2g.png</ImageUrl>
     <Buttons>
-      <Button type="ephemeral" label="Are these ELS vehicles?" targetPage="els"/>
-      <Button type="ephemeral" label="I can't drag & drop the file" targetPage="dragdrop"/>
+      <Button type="ephemeral" targetPage="els">Are these ELS vehicles?</Button>
+      <Button type="ephemeral" targetPage="dragdrop">I can't drag & drop the file</Button>
     </Buttons>
   </Page>
-
-  <!-- Shared ephemeral button pages -->
-
+  
   <Page id="els">
     <Title><![CDATA[Make sure to install the ELS file for ELS vehicles!]]></Title>
     <Description><![CDATA[
@@ -68,7 +66,7 @@ They must go into the following folder:
 Without these XML files, emergency lighting may not work correctly.
     ]]></Description>
     <Buttons>
-      <Button type="link" label="What is ELS?" url="https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/"/>
+      <Button type="link" url="https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/">What is ELS?</Button>
     </Buttons>
   </Page>
 
