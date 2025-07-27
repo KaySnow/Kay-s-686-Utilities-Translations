@@ -1,4 +1,4 @@
-# 686 Utilities: Guides
+# 686 Utilities: `/guides`
 
 Guides are designed to help users with installations, common problems, and more — powered by interactive Discord embeds.
 
