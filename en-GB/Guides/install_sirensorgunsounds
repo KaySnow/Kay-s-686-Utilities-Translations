@@ -1,10 +1,10 @@
-<Guide id="install_sirens" name="How to Install Sirens">
+<Guide id="install_sirensorgunsounds" name="How to Install Sirens / Gun Sounds">
   <Author>Charlie686</Author>
 
   <Page id="home">
-    <Title><![CDATA[Installing Sirens]]></Title>
+    <Title><![CDATA[Installing Sirens / Gun Sounds]]></Title>
     <Description><![CDATA[
-Sirens can come in several different formats. The steps to install them vary depending on what you've downloaded.
+Sirens / Gun Sounds can come in several different formats. The steps to install them vary depending on what you've downloaded.
 
 **What format is your siren mod in?**
     ]]></Description>
@@ -16,9 +16,9 @@ Sirens can come in several different formats. The steps to install them vary dep
   </Page>
 
   <Page id="format_oac">
-    <Title><![CDATA[Installing a .oac Siren Pack]]></Title>
+    <Title><![CDATA[Installing a .oac Siren / Gun Sounds Pack]]></Title>
     <Description><![CDATA[
-If your siren mod comes with a `.oac` file and a `vehicles` folder, follow these steps:
+If your siren / gun sounds mod comes with a `.oac` file and a `vehicles` folder, follow these steps:
 
 1. Open OpenIV and go to:  
    `GTAV/mods/x64/audio/sfx/resident.rpf`
@@ -31,7 +31,7 @@ If your siren mod comes with a `.oac` file and a `vehicles` folder, follow these
   </Page>
 
   <Page id="format_awc">
-    <Title><![CDATA[Installing a .awc Siren Pack]]></Title>
+    <Title><![CDATA[Installing a .awc Siren / Gun Sounds Pack]]></Title>
     <Description><![CDATA[
 If your siren mod comes with a precompiled `vehicles.awc` file:
 
@@ -43,7 +43,7 @@ If your siren mod comes with a precompiled `vehicles.awc` file:
   </Page>
 
   <Page id="format_wav">
-    <Title><![CDATA[Installing .wav Siren Files]]></Title>
+    <Title><![CDATA[Installing .wav Siren / Gun Sound Files]]></Title>
     <Description><![CDATA[
 If your siren mod comes with raw `.wav` files only:
 
@@ -52,11 +52,11 @@ If your siren mod comes with raw `.wav` files only:
 2. Right-click `vehicles.awc` > **Export to OpenFormats**  
    Export to an empty folder.
 3. You will now see a `vehicles` folder and a `.oac` file.
-4. Replace the `.wav` files inside the `vehicles` folder with the ones from your siren mod.
+4. Replace the `.wav` files inside the `vehicles` folder with the ones from your siren / gun sounds mod.
 5. Drag the `.oac` file back into `resident.rpf` to rebuild the `.awc`.
 
 📺 Need help? Watch this video guide:  
-[YouTube: Install Sirens with .wav files](https://www.youtube.com/watch?v=ymLrNTjGBXA)
+[YouTube: Install Sirens / Gun Sounds with .wav files](https://www.youtube.com/watch?v=ymLrNTjGBXA)
     ]]></Description>
     <Buttons>
       <Button type="link" url="https://www.youtube.com/watch?v=ymLrNTjGBXA"><![CDATA[Watch Video Guide]]></Button>
