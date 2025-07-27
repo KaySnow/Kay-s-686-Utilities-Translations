@@ -18,8 +18,9 @@ You can contribute new guides here. Each accepted contribution will be credited 
 4. Your guide must include:
    - A `Page` block with the `id="home"`.
    - Clear, logical, step-by-step instructions.
-5. Test your XML using `/checkguide` in the `#commands` channel of **LSPDFR-TS**.
-6. Submit a Pull Request with a short summary of what your guide covers.
+5. Test your XML using `/debug-guide` in the `#commands` channel of **LSPDFR-TS**.
+     - You can specify a Page `Id` in the command to see how the embed would look, excluding the buttons.
+7. Submit a Pull Request with a short summary of what your guide covers.
 
 ---
 
