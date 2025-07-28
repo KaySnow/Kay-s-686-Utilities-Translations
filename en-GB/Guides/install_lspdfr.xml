@@ -30,12 +30,12 @@ Drag and drop all files and folders except the `RPH_Readme.txt` file and the `Li
 </Description>
     <ImageUrl>https://i.imgur.com/UpFP9YY.png</ImageUrl>
     <Buttons>
-      <Button type="interactive" targetPage="firsttime">Run LSPDFR for the first time</Button>
+      <Button type="interactive" targetPage="firsttime">Running LSPDFR for the first time</Button>
     </Buttons>
   </Page>
 
   <Page id="firsttime">
-    <Title>Run LSPDFR for the first time.</Title>
+    <Title>Running LSPDFR for the first time.</Title>
     <Description>
 Launch `RAGEPluginHook.exe` in your GTAV folder.
 It will take you through the first-time setup, and then launch GTAV.
