@@ -1,6 +1,6 @@
 <Translations>
   <Title><![CDATA[686 Utilities: META Merger Tool]]></Title>
-  <MergeResultsHeader><![CDATA[Merge Results:]]></MergeResultsHeader>
+  <MergeResultsHeader><![CDATA[{0} Merge Results:]]></MergeResultsHeader>
   <MergeResultsDetectedFile><![CDATA[Detected file: **{0}**]]></MergeResultsDetectedFile>
   <MergeResultsAddedEntries><![CDATA[**Added Entries:** `{0}`]]></MergeResultsAddedEntries>
   <MergeResultsModifiedEntries><![CDATA[**Modified Entries:** `{0}`]]></MergeResultsModifiedEntries>
