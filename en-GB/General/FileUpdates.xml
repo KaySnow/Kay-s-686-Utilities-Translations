@@ -34,6 +34,6 @@ To add a new subscription, use 'Add Subscription'.]]></PanelDescription>
   <PanelYes><![CDATA[Yes]]></PanelYes>
   <PanelNo><![CDATA[No]]></PanelNo>
 
-  <PanelSearchModalTitle><![CDATA[[TEST] Search for a file!]]></PanelSearchModalTitle>
+  <PanelSearchModalTitle><![CDATA[Search for a file!]]></PanelSearchModalTitle>
   <PanelSearchModalLabel><![CDATA[Enter the name of the file on LCPDFR.com]]></PanelSearchModalLabel>
 </Translations>
