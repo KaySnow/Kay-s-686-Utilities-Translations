@@ -9,7 +9,7 @@ When downloading, ensure to choose the **Manual Install**.
 ]]></Description>
     <ImageUrl>https://i.imgur.com/M6o9uAJ.png</ImageUrl>
     <Fields>
-      <Field name="<![CDATA[What about RAGEPluginHook?]]>" inline="true"><![CDATA[
+      <Field name="What about RAGEPluginHook?" inline="true"><![CDATA[
 RAGEPluginHook is already included in the LSPDFR download itself.
 ]]></Field>
     </Fields>
@@ -41,10 +41,10 @@ Launch `RAGEPluginHook.exe` in your GTAV folder.
 It will take you through the first-time setup, and then launch GTAV.
 ]]></Description>
     <Fields>
-      <Field name="<![CDATA[Before you play, make sure:]]>" inline="false"><![CDATA[
+      <Field name="Before you play, make sure:" inline="false"><![CDATA[
 You have already completed the prologue for GTAV. LSPDFR requires you to be in free roam to work correctly.
 ]]></Field>
-      <Field name="<![CDATA[I am in game with RAGEPluginHook, however LSPDFR is not loaded?]]>" inline="false"><![CDATA[
+      <Field name="I am in game with RAGEPluginHook, however LSPDFR is not loaded?" inline="false"><![CDATA[
 You may need to load it in game. Open the RPH console (F4 by default), and type in `LoadPlugin LSPD First Response.dll`.
 ]]></Field>
     </Fields>
