@@ -1,0 +1,39 @@
+<Translations>
+  <FileUpdates><![CDATA[File Updates]]></FileUpdates>
+  <OldVersion><![CDATA[Old Version]]></OldVersion>
+  <NewVersion><![CDATA[New Version]]></NewVersion>
+  <Version><![CDATA[Version]]></Version>
+  <Category><![CDATA[Category]]></Category>
+  <NewUpload><![CDATA[{0} has been uploaded.]]></NewUpload>
+  <NewUpdate><![CDATA[{0} has been updated.]]></NewUpdate>
+  <GetDMUpdates><![CDATA[Get DM Updates on this file!]]></GetDMUpdates>
+
+  <PanelTitle><![CDATA[686 Utilities: Your LCPDFR.com Subscriptions]]></PanelTitle>
+  <PanelDescription><![CDATA[You'll receive a Direct Message when any of these files update.
+    To add a new subscription, use 'Add Subscription'.]]></PanelDescription>
+  <PanelDescriptionCommand><![CDATA[You'll receive a Direct Message when any of these files update.
+    To add a new subscription, use `/subscribe`.]]></PanelDescriptionCommand>
+  <PanelSubscriptionCount><![CDATA[Total Subscriptions: {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[Previous Page]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[Next Page]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[Add Subscription]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[Search Again]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[Manage All Subscriptions]]></PanelManageAllSubscriptions>
+
+  <PanelSelectFilePlaceholder><![CDATA[Select a file below!]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[Subscribe to a file below!]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[You are already subscribed to this file. Try refreshing your panel!]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[You are already unsubscribed to this file. Try refreshing your panel!]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[Action cancelled.]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[Subscribed to **{0}**.]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[Unsubscribed from **{0}**.]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[Would you like to unsubscribe from **{0}**?]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[Would you like to subscribe to **{0}**?]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[Yes]]></PanelYes>
+  <PanelNo><![CDATA[No]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[Search for a file!]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[Enter the name of the file on LCPDFR.com]]></PanelSearchModalLabel>
+</Translations>
