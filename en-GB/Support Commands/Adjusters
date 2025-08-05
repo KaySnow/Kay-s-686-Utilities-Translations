@@ -1,0 +1,21 @@
+<Command>
+		<Name>Adjusters</Name>
+		<Title><![CDATA[Install a Custom Gameconfig, Heap & Packfile Limit Adjuster.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Custom Gameconfig**\nUsing OpenIV, drag and drop the gameconfig.xml into GTA V/mods/update/update.rpf/common/data.\n\n**Heap Adjuster**\nDrag the Heapadjuster.asi and HeapAdjuster.ini into your main directory.\n\n**Packfile Limit Adjuster**\nDrag the PackfileLimitAdjuster.asi and PackfileLimitAdjuster.ini into your main directory.]]></Description>
+		<Button>
+			<Label><![CDATA[Custom Gameconfig]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Heap Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Packfile Limit Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>
