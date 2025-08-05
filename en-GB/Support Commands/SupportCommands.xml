@@ -1,0 +1,265 @@
+<Commands>
+	<Command>
+		<Name>Log</Name>
+		<Title><![CDATA[Attach your RagePluginHook log.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Please attach your RagePluginHook log - a **text document** found in your main directory; it is **not found in your logs folder.**]]></Description>
+	</Command>
+	<Command>
+		<Name>Core Links</Name>
+		<Title><![CDATA[Core links.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**LSPDFR & RAGEPluginHook**\nInstall the manual install then drag and drop all the files, except licenses and the readme, into your main directory.\n\n**ScriptHookV**\nIgnoring NativeTrainer.asi, drag and drop the files into your main directory.\n\n**OpenIV**\nDownload the Windows Executable, and run the installer.]]></Description>
+		<Button>
+			<Label><![CDATA[LSPDFR & RAGEPluginHook]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[ScriptHookV]]></Label>
+			<Url><![CDATA[http://www.dev-c.com/gtav/scripthookv/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[OpenIV]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/scripts/43441-openiv-archive-mirror/]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>Adjusters</Name>
+		<Title><![CDATA[Install a Custom Gameconfig, Heap & Packfile Limit Adjuster.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Custom Gameconfig**\nUsing OpenIV, drag and drop the gameconfig.xml into GTA V/mods/update/update.rpf/common/data.\n\n**Heap Adjuster**\nDrag the Heapadjuster.asi and HeapAdjuster.ini into your main directory.\n\n**Packfile Limit Adjuster**\nDrag the PackfileLimitAdjuster.asi and PackfileLimitAdjuster.ini into your main directory.]]></Description>
+		<Button>
+			<Label><![CDATA[Custom Gameconfig]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Heap Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Packfile Limit Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>ASI</Name>
+		<Title><![CDATA[Disabling your .asi scripts.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Please move **dinput8.dll** (ASI Loader) outside of your GTAV folder, then retry. \nIf removing dinput8.dll solves your issue, then the issue resides with one of your.asi files; an example being ELS.asi. \n\nTo further help diagnose this issue, please **move all .asi files** in your main directory, to your desktop.\nThen, please re-add dinput8.dll to your main directory.\n\nRe-add your.asi files individually, and test if your game runs. Once you've identified which .asi file is causing the issue, please let us know.]]></Description>
+	</Command>
+	<Command>
+		<Name>Clean Epic Games Folder</Name>
+		<Title><![CDATA[Clean GTAV folder for Epic Games.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/UbHmxTP.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+	</Command>
+	<Command>
+		<Name>Clean Retail Folder</Name>
+		<Title><![CDATA[Clean GTAV folder for R*.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/CLcQCRm.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+	</Command>
+	<Command>
+		<Name>Clean Steam Folder</Name>
+		<Title><![CDATA[Clean GTAV folder for Steam.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/edlpF1I.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+	</Command>
+	<Command>
+		<Name>Commandline</Name>
+		<Title><![CDATA[Configuring your commandline.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[In your GTAV directory there is a file called **commandline.** This is a text document. Delete all the text inside the document then add `-windowed`.\nOnce done, click save.]]></Description>
+	</Command>
+	<Command>
+		<Name>Disable Mods</Name>
+		<Title><![CDATA[Disable your mods folder.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Please rename your mods folder to **_mods** and retry.\nNote that all custom vehicles, uniforms, and anything else in your mods folder will not load.]]></Description>
+		<Field>
+			<Name><![CDATA[Has this fixed your problem?]]></Name>
+			<Value><![CDATA[This means the issue resides in your mods folder.\nBut, we are unable to know what specifically is causing the problem.\n\nFirst, make sure you have a Custom Gameconfig, Heap Adjuster & Packfile Limit Adjuster.\nIf not, run the `!adjusters` command for their respective links.\n\n**If you have them installed, then you can:**\nA) Revert any recent changes you've made to your mods folder.\nB) Delete your mods folder & create a new one.]]></Value>
+		</Field>
+	</Command>
+	<Command>
+		<Name>Emergency Cars</Name>
+		<Title><![CDATA[Replace Emergency Vehicles.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[### Police\n
+	`POLICE` - Stanier
+	`POLICE2` - Buffalo
+	`POLICE3` - Vapid Interceptor
+	`POLICE4` - Unmarked Stanier
+	`POLICE5` - Stanier LE Cruiser
+	`POLGAUNTLET` - Gauntlet Interceptor
+	`POLICEOLD1` - Rancher
+	`POLICEOLD2` - Esperanto
+	`POLICEB` - Bike
+	`POLICET` - Transporter	
+	`POLICET3` - Burrito (Bail Enforcement)
+	`POLDORADO` - Dorado Cruiser	
+	`POLGREENWOOD` - Greenwood Cruiser	
+	`POLIMPALER5` - Impaler SZ Cruiser	
+	`POLIMPALER6` - Impaler LX Cruiser	
+	`POLTERMINUS` - Terminus Patrol
+	`POLFACTION2` - Outreach Faction
+	`POLCOQUETTE4` - Coquette D10 Pursuit
+	`POLCARACARA` - Caracara Pursuit
+	`PREDATOR` - Police Boat	
+	`POLMAV` - Maverick
+	`RIOT` - Brute Riot
+	`RIOT2` - Brute RCV
+	`PRANGER` - Granger
+	\n### Sheriff
+	`SHERIFF` - Stanier
+	`SHERIFF2` - Declasse SUV
+	\n### FIB
+	`FBI` - Buffalo
+	`FBI2` - Declasse SUV
+	\n### EMS & FD
+	`FIRETRUK` - MTL Firetruck
+	`AMBULANCE` - Brute Ambulance
+	\n### Lifeguards
+	`LGUARD` - Declasse SUV
+	`BLAZER` - Quadbike]]></Description>
+	</Command>
+	<Command>
+		<Name>ENB</Name>
+		<Title><![CDATA[Loading GTAV with ENB.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[It looks like you have ENB installed; this affects how RagePluginHook hooks with GTAV.\nTherefore you need to load GTAV without RAGE; only once you are in story mode can you ALT + TAB out and launch, letting it hook.]]></Description>
+	</Command>
+	<Command>
+		<Name>Antivirus Exception</Name>
+		<Title><![CDATA[Antivirus Exception.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Please make the GTAV directory an exception to your antivirus and Windows Defender. For your specific antivirus, use Google or the documentation of your specific antivirus solution for instructions.]]></Description>
+		<Button>
+			<Label><![CDATA[Windows Security]]></Label>
+			<Url><![CDATA[https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>Uninstall OIV</Name>
+		<Title><![CDATA[To uninstall OIV files:]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[1. Download WinRAR/7-Zip\n2. Open the OIV file and locate the file called '**assembly.xml**'\n3. In there you can see all files that it replaced. You now need to delete them (make sure you are in your mods folder!)]]></Description>
+	</Command>
+	<Command>
+		<Name>Common Paths</Name>
+		<Title><![CDATA[Common installation paths:]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**dlclist.xml, gameconfig.xml, visualsettings.dat and handling.meta:** mods/update/update.rpf/common/data \n**vehicles.meta:**\nmods/update/update.rpf/common/data/levels/gta5 \n**carvariations.meta, carcols.meta:** mods/update/x64/dlcpacks/mpchristmas2/dlc/common/data\n\nGeneral information\nDo not replace the entire file as this can go wrong.\nInstead, copy & paste the desired lines you'd like to change.]]></Description>
+	</Command>
+	<Command>
+		<Name>Perms</Name>
+		<Title><![CDATA[Configure your GTAV folder permissions.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[We'd like you to change your GTAV folder permissions. Please go to your GTAV folder, right click & select Properties - Security.\nGive the following full control:\n• Users.\n• SYSTEM.\n• Administrator.]]></Description>
+	</Command>
+	<Command>
+		<Name>Replace Vehicles</Name>
+		<Title><![CDATA[Installing replace vehicles.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**All replace vehicles (such as 'police2') should be installed in the following path:**\nGTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/]]></Description>
+		<Field>
+			<Name><![CDATA[Video Tutorials]]></Name>
+			<Value><![CDATA[Watch this [video guide](https://www.youtube.com/watch?v=SAGIisHY5gc) on installing replace vehicles.]]></Value>
+		</Field>
+	</Command>
+	<Command>
+		<Name>RNUI (RageNativeUI)</Name>
+		<Title><![CDATA[RAGENativeUI.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[In order to diagnose your issue, please install / update RAGENativeUI.]]></Description>
+		<Field>
+			<Name><![CDATA[Installation]]></Name>
+			<Value><![CDATA[Drag & drop the .dll file into your main directory.]]></Value>
+		</Field>
+		<ImageUrl><![CDATA[https://i.imgur.com/RiVkpHu.png]]></ImageUrl>
+		<Button>
+			<Label><![CDATA[RAGENativeUI]]></Label>
+			<Url><![CDATA[https://github.com/alexguirre/RAGENativeUI/releases]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>Timeout</Name>
+		<Title><![CDATA[Increase your Plugin Timeout Threshold.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Increase your Plugin Timeout Threshold to **60,000** - this can be done in the RAGE settings.\nIn order to access these settings, hold shift while opening RAGE, or press the cog on the splash screen.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>
+	<Command>
+		<Name>Forcing a GTAV Update</Name>
+		<Title><![CDATA[Forcing a GTAV update.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[If your GTAV version is behind the latest version released, you may need to force it to update.\nIn order to do this, please delete GTAV.exe and then verify your game files. Click the button below for corresponding instructions.]]></Description>
+		<Button>
+			<Label><![CDATA[Epic Games]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Steam]]></Label>
+			<Url><![CDATA[https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Retail]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>Verify your game files</Name>
+		<Title><![CDATA[Verify your game files.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[In order to help figure out why your game is not working properly, please verify your game files using the corresponding link below.]]></Description>
+		<Button>
+			<Label><![CDATA[Epic Games]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Steam]]></Label>
+			<Url><![CDATA[https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Retail]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
+	<Command>
+		<Name>Weapons</Name>
+		<Title><![CDATA[Installing weapons.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Field>
+			<Name><![CDATA[All weapons should be installed in:]]></Name>
+			<Value><![CDATA[GTAV/mods/update/x64/dlcpacks/patchday10ng/dlc.rpf/x64/models/cdimages/weapons.rpf]]></Value>
+		</Field>
+	</Command>
+	<Command>
+		<Name>BattleEye</Name>
+		<Title><![CDATA[Disable BattleEye.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[BattleEye is an anti-cheat software. It is incompatible with modding GTAV, and should be disabled for LSPDFR to function correctly.
+		
+		To disable it, go to the **Rockstar Games Launcher** > **Settings** and **untick it**.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/bayScit.png]]></ImageUrl>
+		<Field>
+			<Name><![CDATA[If this doesn't work, disable it manually.]]></Name>
+			<Value><![CDATA[Go to your GTAV folder and add the following to your commandline.txt: `-nobattleye`]]></Value>
+		</Field>
+	</Command>
+</Commands>
