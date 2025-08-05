@@ -3,7 +3,9 @@
   <OldVersion><![CDATA[Old Version]]></OldVersion>
   <NewVersion><![CDATA[New Version]]></NewVersion>
   <Version><![CDATA[Version]]></Version>
+  <LatestVersion><![CDATA[Latest Version:]]></LatestVersion>
   <Category><![CDATA[Category]]></Category>
+  <Category2><![CDATA[Category:]]></Category2>
   <NewUpload><![CDATA[{0} has been uploaded.]]></NewUpload>
   <NewUpdate><![CDATA[{0} has been updated.]]></NewUpdate>
   <GetDMUpdates><![CDATA[Get DM Updates on this file!]]></GetDMUpdates>
