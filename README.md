@@ -1,5 +1,7 @@
 ## Welcome to the official repository for 686 Utilities Translations! ❤️
-[686 Utilities](https://686utilities.com) is a Discord Bot for the LSPDFR community. Some areas of the bot can be translated here. 
+[686 Utilities](https://686utilities.com) is a Discord Bot for the LSPDFR community. Some areas of the bot can be translated here. <br>
+
+**View all features in the English GitHub folder: https://github.com/686-Utilities/686-Utilities-Translations/tree/main/en-GB**
 
 ## Have a question? Need assistance?
 Please get in touch via our [Discord Server](https://discord.com/invite/gyw5rDHCfr). ⭐
