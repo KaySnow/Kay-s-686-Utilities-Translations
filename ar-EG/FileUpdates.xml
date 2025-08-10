@@ -1,0 +1,39 @@
+<Translations>
+  <FileUpdates><![CDATA[المودات الجديده]]></FileUpdates>
+  <OldVersion><![CDATA[الاصدار القديم]]></OldVersion>
+  <NewVersion><![CDATA[الاصدار الجديد]]></NewVersion>
+  <Version><![CDATA[الاصدار]]></Version>
+  <LatestVersion><![CDATA[: اخر اصدار]]></LatestVersion>
+  <Category><![CDATA[القسم]]></Category>
+  <Category2><![CDATA[ : القسم]]></Category2>
+  <NewUpload><![CDATA[{0} تم رفعه. ]]></NewUpload>
+  <NewUpdate><![CDATA[{0} اتحدث. ]]></NewUpdate>
+  <GetDMUpdates><![CDATA[! خلك على اطلاع بتحديثات هالملف في الخاص]]></GetDMUpdates>
+
+  <PanelTitle><![CDATA[686 Utilities: LCPDFR.com اشتراكاتك في]]></PanelTitle>
+  <PanelDescription><![CDATA[بتوصلك رسالة في الخاص لما أي من هالملفات يتم تحديثها
+"لو عايز تضيف اشتراك جديد، استخدم "إضافة اشتراك'..]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[جميع اشتراكاتك : {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[الصفحه السابقه]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[الصفحه التاليه]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[اضافه اشتراك]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[البحث مره اخري]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[تحكم في كل اشتراكاتك]]></PanelManageAllSubscriptions>
+
+  <PanelSelectFilePlaceholder><![CDATA[! اختر ملف من تحت]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[! سو اشتراك في واحد من الملفات اللي تحت]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[.اشتراكك في هالملف موجود من قبل. حاول تحديث الصفحه]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[! أنت فعلاً ملغي الاشتراك من هالملف. جرّب تحدّث الصفحة]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[.تم إلغاء العملية]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[لقد اشتركت ل]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[ تم الغاء اشتراكك من **{0}**.]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[هل تريد الغاء الاشتراك فعلا؟  **{0}**?]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[هل عاوز تشترك ؟ **{0}**?]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[ايوه]]></PanelYes>
+  <PanelNo><![CDATA[لا]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[! ابحث عن الملف]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[ .LCPDFR.com ادخل اسم المود علي موقع ]]></PanelSearchModalLabel>
+</Translations>
