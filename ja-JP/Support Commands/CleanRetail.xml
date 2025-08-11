@@ -1,6 +1,6 @@
 <Command>
-		<Name>Clean Retail Folder</Name>
-		<Title><![CDATA[Clean GTAV folder for R*.]]></Title>
+		<Name>R*版のGTAVフォルダ</Name>
+		<Title><![CDATA[R*版のGTAVフォルダ]]></Title>
 		<ImageUrl><![CDATA[https://i.imgur.com/CLcQCRm.png]]></ImageUrl>
 		<Color>89, 0, 255</Color>
 	</Command>
