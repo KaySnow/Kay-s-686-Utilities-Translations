@@ -1,0 +1,10 @@
+<Command>
+		<Name>Replace Vehicles</Name>
+		<Title><![CDATA[Installing replace vehicles.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**All replace vehicles (such as 'police2') should be installed in the following path:**\nGTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/]]></Description>
+		<Field>
+			<Name><![CDATA[Video Tutorials]]></Name>
+			<Value><![CDATA[Watch this [video guide](https://www.youtube.com/watch?v=SAGIisHY5gc) on installing replace vehicles.]]></Value>
+		</Field>
+	</Command>
