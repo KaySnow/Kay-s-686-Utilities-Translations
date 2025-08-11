@@ -1,0 +1,17 @@
+<Translations>
+  <Title><![CDATA[686 Utilities: META マージツール]]></Title>
+  <MergeResultsHeader><![CDATA[{0} マージ結果:]]></MergeResultsHeader>
+  <MergeResultsDetectedFile><![CDATA[検出されたファイル: **{0}**]]></MergeResultsDetectedFile>
+  <MergeResultsAddedEntries><![CDATA[**追加されたエントリ:** `{0}`]]></MergeResultsAddedEntries>
+  <MergeResultsModifiedEntries><![CDATA[**変更されたエントリ:** `{0}`]]></MergeResultsModifiedEntries>
+  <MergeResultsDiscardedEntries><![CDATA[**破棄されたエントリ:** `{0}`]]></MergeResultsDiscardedEntries>
+
+  <OriginalFileHeader><![CDATA[アップロードした元ファイル:]]></OriginalFileHeader>
+  <OriginalFileDescription><![CDATA[このファイルはベースファイルとして使用されました。他のファイルをこのファイルにマージしました。ファイルのバックアップはこちらから利用できます。]]></OriginalFileDescription>
+
+  <ModifiedFileHeader><![CDATA[アップロードした変更ファイル:]]></ModifiedFileHeader>
+  <ModifiedFileDescription><![CDATA[このファイルは変更ファイルとして使用されました。選択した車両のエントリは、このファイルから元ファイルに変更/追加されました。ファイルのバックアップはこちらから利用できます。]]></ModifiedFileDescription>
+
+  <MergedFileHeader><![CDATA[新しいマージ済みファイル:]]></MergedFileHeader>
+  <MergedFileDescription><![CDATA[このファイルは新しくマージされたファイルです。選択した車両に関して、変更ファイルの変更を元ファイルにマージしています。]]></MergedFileDescription>
+</Translations>

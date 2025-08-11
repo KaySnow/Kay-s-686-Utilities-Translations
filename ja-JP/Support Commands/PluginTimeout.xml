@@ -1,0 +1,11 @@
+<Command>
+		<Name>タイムアウト</Name>
+		<Title><![CDATA[プラグインのタイムアウト閾値を増やす]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+プラグインのタイムアウト閾値を**60,000**に増やしましょう。  
+これはRAGEの設定で行えます。  
+設定画面にアクセスするには、RAGEを開くときにShiftキーを押し続けるか、スプラッシュ画面の歯車アイコンをクリックしてください。
+  ]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>

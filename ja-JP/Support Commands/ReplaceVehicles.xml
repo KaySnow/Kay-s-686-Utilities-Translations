@@ -1,0 +1,13 @@
+<Command>
+		<Name>リプレイス(Replace)車両</Name>
+		<Title><![CDATA[リプレイス車両のインストール]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+**すべてのリプレイス車両（例：'police2'）は以下のパスにインストールしてください：**  
+GTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/
+  ]]></Description>
+		<Field>
+			<Name><![CDATA[動画チュートリアル]]></Name>
+			<Value><![CDATA[Watch this [リプレイス車両のインストール方法はこちらの[動画ガイド](https://www.youtube.com/watch?v=SAGIisHY5gc)をご覧ください。]]></Value>
+		</Field>
+	</Command>

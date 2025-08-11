@@ -1,0 +1,39 @@
+<Translations>
+  <FileUpdates><![CDATA[ファイル更新]]></FileUpdates>
+  <OldVersion><![CDATA[旧バージョン]]></OldVersion>
+  <NewVersion><![CDATA[新バージョン]]></NewVersion>
+  <Version><![CDATA[バージョン]]></Version>
+  <LatestVersion><![CDATA[最新バージョン:]]></LatestVersion>
+  <Category><![CDATA[カテゴリー]]></Category>
+  <Category2><![CDATA[カテゴリー:]]></Category2>
+  <NewUpload><![CDATA[{0} がアップロードされました。]]></NewUpload>
+  <NewUpdate><![CDATA[{0} が更新されました。]]></NewUpdate>
+  <GetDMUpdates><![CDATA[このファイルのDM更新通知を受け取る！]]></GetDMUpdates>
+
+  <PanelTitle><![CDATA[686 Utilities: LCPDFR.com サブスクリプション]]></PanelTitle>
+  <PanelDescription><![CDATA[これらのファイルが更新された際にDMを受け取ります。
+新しいサブスクリプションを追加するには「サブスクリプションを追加」を使用してください。]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[合計サブスクリプション数: {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[前のページ]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[次のページ]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[サブスクリプションを追加]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[再検索]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[すべてのサブスクリプションを管理]]></PanelManageAllSubscriptions>
+
+  <PanelSelectFilePlaceholder><![CDATA[下からファイルを選択してください！]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[下からファイルを購読してください！]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[すでにこのファイルを購読しています。パネルを更新してみてください！]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[でにこのファイルの購読を解除しています。パネルを更新してみてください！]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[操作がキャンセルされました。]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[**{0}** を購読しました。]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[**{0}** の購読を解除しました。]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[**{0}** の購読を解除しますか？]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[**{0}** を購読しますか？]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[はい]]></PanelYes>
+  <PanelNo><![CDATA[いいえ]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[ファイルを検索]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[LCPDFR.com 上のファイル名を入力してください]]></PanelSearchModalLabel>
+</Translations>

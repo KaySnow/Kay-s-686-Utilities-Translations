@@ -1,0 +1,9 @@
+<Command>
+		<Name>ENB</Name>
+		<Title><![CDATA[ENBを使ってGTAVを起動する方法]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+ENBがインストールされているようですが、これはRagePluginHookとGTAVの連携に影響を与えます。  
+そのため、RAGEなしでGTAVを起動し、ストーリーモードに入ってからALT + TABで切り替え、RagePluginHookをフックさせてください。
+  ]]></Description>
+	</Command>

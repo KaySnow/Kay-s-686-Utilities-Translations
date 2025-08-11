@@ -1,0 +1,11 @@
+<Command>
+		<Name>OIVファイルのアンインストール</Name>
+		<Title><![CDATA[OIVファイルのアンインストール方法：]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+1. WinRARまたは7-Zipをダウンロードしてください。  
+2. OIVファイルを開き、'**assembly.xml**'というファイルを探します。  
+3. そこには置き換えられたすべてのファイルが記載されています。  
+4. それらのファイルを削除してください（必ずmodsフォルダ内で行ってください！）
+  ]]></Description>
+	</Command>

@@ -1,0 +1,48 @@
+<Command>
+		<Name>緊急車両のリスト</Name>
+		<Title><![CDATA[緊急車両の置き換えリスト]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+### 警察車両
+`POLICE` - スタニア  
+`POLICE2` - バッファロー  
+`POLICE3` - ヴェイパッド インターセプター  
+`POLICE4` - マークなしスタニア  
+`POLICE5` - スタニア LE クルーザー  
+`POLGAUNTLET` - ガントレット インターセプター  
+`POLICEOLD1` - ランチャー  
+`POLICEOLD2` - エスペラント  
+`POLICEB` - バイク  
+`POLICET` - トランスポーター  
+`POLICET3` - バリト（保釈執行）  
+`POLDORADO` - ドラード クルーザー  
+`POLGREENWOOD` - グリーンウッド クルーザー  
+`POLIMPALER5` - インペーラー SZ クルーザー  
+`POLIMPALER6` - インペーラー LX クルーザー  
+`POLTERMINUS` - ターミナス パトロール  
+`POLFACTION2` - アウトリーチ ファクション  
+`POLCOQUETTE4` - コケット D10 パースート  
+`POLCARACARA` - カラカラ パースート  
+`PREDATOR` - 警察ボート  
+`POLMAV` - マーベリック  
+`RIOT` - ブルート ライオット  
+`RIOT2` - ブルート RCV  
+`PRANGER` - グレンジャー  
+
+### 保安官車両  
+`SHERIFF` - スタニア  
+`SHERIFF2` - デクラッセ SUV  
+
+### FIB車両  
+`FBI` - バッファロー  
+`FBI2` - デクラッセ SUV  
+
+### EMS & 消防車両  
+`FIRETRUK` - MTL 消防車  
+`AMBULANCE` - ブルート 救急車  
+
+### ライフガード車両  
+`LGUARD` - デクラッセ SUV  
+`BLAZER` - クワッドバイク  
+  ]]></Description>
+	</Command>

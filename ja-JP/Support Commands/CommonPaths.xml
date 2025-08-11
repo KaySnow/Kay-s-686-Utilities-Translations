@@ -1,0 +1,19 @@
+<Command>
+		<Name>一般のパス</Name>
+		<Title><![CDATA[よく使用されるインストールパス：]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[
+**dlclist.xml, gameconfig.xml, visualsettings.dat, handling.meta:**  
+mods/update/update.rpf/common/data
+
+**vehicles.meta:**  
+mods/update/update.rpf/common/data/levels/gta5
+
+**carvariations.meta, carcols.meta:**  
+mods/update/x64/dlcpacks/mpchristmas2/dlc/common/data
+
+一般的な注意点  
+ファイル全体を置き換えるのは避けてください。  
+変更したい行だけをコピー＆ペーストして編集してください。
+  ]]></Description>
+	</Command>
