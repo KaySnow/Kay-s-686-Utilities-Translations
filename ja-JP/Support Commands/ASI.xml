@@ -1,6 +1,15 @@
 <Command>
 		<Name>ASI</Name>
-		<Title><![CDATA[Disabling your .asi scripts.]]></Title>
+		<Title><![CDATA[ASIスクリプトを無効化する方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please move **dinput8.dll** (ASI Loader) outside of your GTAV folder, then retry. \nIf removing dinput8.dll solves your issue, then the issue resides with one of your.asi files; an example being ELS.asi. \n\nTo further help diagnose this issue, please **move all .asi files** in your main directory, to your desktop.\nThen, please re-add dinput8.dll to your main directory.\n\nRe-add your.asi files individually, and test if your game runs. Once you've identified which .asi file is causing the issue, please let us know.]]></Description>
+		<Description><![CDATA[
+まず、**dinput8.dll**（ASIローダー）をGTAVフォルダの外に移動してから、再試行してください。  
+もしdinput8.dllを外すことで問題が解決する場合、問題はASIファイルのいずれかにあります。例えば、ELS.asiなどです。
+
+問題の特定を助けるために、メインディレクトリ内のすべての `.asi` ファイルをデスクトップなどに移動してください。  
+その後、dinput8.dllをメインディレクトリに戻してください。
+
+次に、ASIファイルを一つずつ戻してゲームが正常に動作するか確認してください。  
+問題のあるASIファイルが特定できたら、ぜひ教えてください。
+  ]]></Description>
 </Command>
