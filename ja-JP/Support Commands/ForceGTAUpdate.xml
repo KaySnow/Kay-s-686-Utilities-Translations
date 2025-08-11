@@ -7,6 +7,7 @@ GTAVのバージョンが最新リリース版より古い場合、強制的に�
 そのためには、GTAV.exeを削除し、ゲームファイルの整合性を確認してください。  
 以下のボタンから各プラットフォーム別の手順を参照できます。
   ]]></Description>
+		<Button>
 			<Label><![CDATA[Epic Games]]></Label>
 			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
 			<Style>Link</Style>
