@@ -1,9 +1,12 @@
 <Command>
-		<Name>Forcing a GTAV Update</Name>
-		<Title><![CDATA[Forcing a GTAV update.]]></Title>
+		<Name>GTAVの強制アップデート</Name>
+		<Title><![CDATA[GTAVの強制アップデート方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[If your GTAV version is behind the latest version released, you may need to force it to update.\nIn order to do this, please delete GTAV.exe and then verify your game files. Click the button below for corresponding instructions.]]></Description>
-		<Button>
+		<Description><![CDATA[
+GTAVのバージョンが最新リリース版より古い場合、強制的にアップデートする必要があります。  
+そのためには、GTAV.exeを削除し、ゲームファイルの整合性を確認してください。  
+以下のボタンから各プラットフォーム別の手順を参照できます。
+  ]]></Description>
 			<Label><![CDATA[Epic Games]]></Label>
 			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
 			<Style>Link</Style>
