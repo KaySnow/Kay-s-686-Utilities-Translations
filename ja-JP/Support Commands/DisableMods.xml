@@ -1,10 +1,23 @@
 <Command>
-		<Name>Disable Mods</Name>
-		<Title><![CDATA[Disable your mods folder.]]></Title>
+		<Name>modsフォルダを無効化</Name>
+		<Title><![CDATA[modsフォルダを無効化する方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please rename your mods folder to **_mods** and retry.\nNote that all custom vehicles, uniforms, and anything else in your mods folder will not load.]]></Description>
+		<Description><![CDATA[
+modsフォルダの名前を **_mods** に変更してから、再度試してください。  
+ただし、modsフォルダ内のカスタム車両や制服、その他すべてのコンテンツは読み込まれなくなります。
+  ]]></Description>
 		<Field>
-			<Name><![CDATA[Has this fixed your problem?]]></Name>
-			<Value><![CDATA[This means the issue resides in your mods folder.\nBut, we are unable to know what specifically is causing the problem.\n\nFirst, make sure you have a Custom Gameconfig, Heap Adjuster & Packfile Limit Adjuster.\nIf not, run the `!adjusters` command for their respective links.\n\n**If you have them installed, then you can:**\nA) Revert any recent changes you've made to your mods folder.\nB) Delete your mods folder & create a new one.]]></Value>
+			<Name><![CDATA[問題は解決しましたか？]]></Name>
+			<Value><![CDATA[
+これは問題がmodsフォルダ内にあることを示しています。  
+ですが、具体的に何が原因かはわかりません。
+
+まず、Custom Gameconfig、Heap Adjuster、Packfile Limit Adjusterを導入しているか確認してください。  
+導入していなければ、`!adjusters` コマンドでそれぞれのリンクを確認してください。
+
+**すでに導入済みの場合は以下を試してください：**  
+A) modsフォルダに最近加えた変更を元に戻す。  
+B) modsフォルダを削除して、新しく作り直す。
+    ]]></Value>
 		</Field>
 	</Command>
