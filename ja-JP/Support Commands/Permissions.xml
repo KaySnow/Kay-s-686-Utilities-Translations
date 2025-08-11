@@ -1,6 +1,12 @@
 <Command>
-		<Name>Perms</Name>
-		<Title><![CDATA[Configure your GTAV folder permissions.]]></Title>
+		<Name>権限</Name>
+		<Title><![CDATA[GTAVフォルダの権限設定]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[We'd like you to change your GTAV folder permissions. Please go to your GTAV folder, right click & select Properties - Security.\nGive the following full control:\n• Users.\n• SYSTEM.\n• Administrator.]]></Description>
+		<Description><![CDATA[
+GTAVフォルダの権限を変更してください。  
+GTAVフォルダを右クリックし、プロパティ → セキュリティを開き、以下のユーザーにフルコントロールを付与してください：  
+• Users  
+• SYSTEM  
+• Administrator
+  ]]></Description>
 	</Command>
