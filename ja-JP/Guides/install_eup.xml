@@ -1,99 +1,100 @@
-<Guide id="install_eup" name="How to Install EUP">
+<Guide id="install_eup" name="EUP のインストール方法">
   <Author>Charlie686</Author>
 
   <Page id="home">
-    <Title><![CDATA[How do I install EUP?]]></Title>
+    <Title><![CDATA[EUP のインストール方法]]></Title>
     <Description><![CDATA[
-Emergency Uniforms Pack (EUP) adds high-quality law enforcement, rescue, and civilian uniforms to GTA V. It’s split into several components:
+Emergency Uniforms Pack (EUP) は、GTA V に高品質な警察、救助隊、民間の制服を追加します。  
+これはいくつかのコンポーネントに分かれています：
 
-**EUP Law & Order** – The core pack containing standard police uniforms and equipment.  
-      
-**EUP Serve & Rescue** – Adds fire, EMS, and other emergency service outfits (optional, but recommended).  
-      
-**EUP Menu** – Allows you to browse and apply EUP outfits in-game via a user-friendly menu.  
-      
-**EUP Configurations** – Adds outfit presets and configuration files for use with LSPDFR characters.
+**EUP Law & Order** – 標準的な警察制服や装備を含むコアパック。  
 
-We recommend installing all 4 components for the best experience.
+**EUP Serve & Rescue** – 消防、EMS、その他の緊急サービス用の装備を追加（任意ですが推奨）。  
+
+**EUP Menu** – ゲーム内でEUPの衣装を簡単に選択・適用できるメニュー。  
+
+**EUP Configurations** – LSPDFRキャラクター用のプリセットや設定ファイルを追加。
+
+最高のゲーム体験のために、4つすべてのコンポーネントをインストールすることをおすすめします。
     ]]></Description>
     <Buttons>
-      <Button type="interactive" targetPage="laworder"><![CDATA[Install Law & Order Pack]]></Button>
-      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
-      <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
-      <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
+      <Button type="interactive" targetPage="laworder"><![CDATA[Law & Order パックをインストール]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Serve & Rescue パックをインストール]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[EUP Menu をインストール]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[EUP Configurations をインストール]]></Button>
     </Buttons>
   </Page>
 
   <Page id="laworder">
-    <Title><![CDATA[Installing EUP Law & Order Pack]]></Title>
+    <Title><![CDATA[EUP Law & Order パックのインストール]]></Title>
     <Description><![CDATA[
-1. Download EUP Law & Order:  
+1. EUP Law & Order をダウンロード:  
 [**EUP Law & Order (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/)
 
-2. Download `EUPLO8.3.oiv` (not the LML package) and extract it.
+2. `EUPLO8.3.oiv`（LMLパッケージではない方）をダウンロードして解凍。
 
-3. Drag the `.OIV` file onto your desktop.
+3. `.OIV` ファイルをデスクトップに移動。
 
-4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
+4. **OpenIV** → ツール → パッケージインストーラー → `.OIV` ファイルを選択。
 
-5. When prompted, install to **mods** folder.
+5. インストール先は **mods** フォルダを選択。
     ]]></Description>
     <Buttons>
-      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Install Serve & Rescue Pack]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Serve & Rescue パックをインストール]]></Button>
     </Buttons>
   </Page>
 
   <Page id="serveandrescue">
-    <Title><![CDATA[Installing EUP Serve & Rescue Pack]]></Title>
+    <Title><![CDATA[Serve & Rescue パックをインストール]]></Title>
     <Description><![CDATA[
-1. Download EUP Serve & Rescue:  
+1. EUP Serve & Rescue をダウンロード:  
 [**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
 
-2. Download `EUPSR1.5.oiv` (not the LML package) and extract it.
+2. `EUPSR1.5.oiv`（LMLパッケージではない方）をダウンロードして解凍。
 
-3. Drag the `.OIV` file onto your desktop.
+3. `.OIV` ファイルをデスクトップに移動。
 
-4. Open **OpenIV** → Tools → Package Installer → select the `.OIV` file.
+4. **OpenIV** → ツール → パッケージインストーラー → `.OIV` ファイルを選択。
 
-5. When prompted, install to **mods** folder.
+5. インストール先は **mods** フォルダを選択。
     ]]></Description>
     <Buttons>
-      <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[EUP Menu をインストール]]></Button>
     </Buttons>
   </Page>
 
   <Page id="menu">
-    <Title><![CDATA[Installing EUP Menu]]></Title>
+    <Title><![CDATA[EUP Menu をインストール]]></Title>
     <Description><![CDATA[
-1. Download EUP Menu:  
+1. EUP Menu をダウンロード:  
 [**EUP Menu (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/)
 
-2. Drag and drop the `plugins` folder into your GTAV main directory.
+2. `plugins` フォルダを GTAV のメインディレクトリにドラッグ＆ドロップ。
 
-3. Download [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) and extract it.
+3. [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) をダウンロードして解凍。
 
-4. Drag `RAGENativeUI.dll` into your GTAV main directory.
+4. `RAGENativeUI.dll` を GTAV のメインディレクトリに移動。
 
-5. Note that your EUP customisation files are generated when you first load EUP Menu in game.
+5. ゲームで初めて EUP Menu を読み込むと、カスタマイズファイルが生成されます。
     ]]></Description>
     <Buttons>
-      <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[Configurations をインストール]]></Button>
     </Buttons>
   </Page>
 
   <Page id="config">
-    <Title><![CDATA[Installing EUP Configurations]]></Title>
+    <Title><![CDATA[EUP Configurations をインストール]]></Title>
     <Description><![CDATA[
-1. Download the configuration files:  
+1. 設定ファイルをダウンロード:  
 [**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
 
-2. Choose either `EUPFR Basic - without addon cars`, or `EUPFR UE - without car mods` (if using Ultimate Edition).
+2. `EUPFR Basic - without addon cars` または Ultimate Edition を使用している場合は `EUPFR UE - without car mods` のいずれかを選択。
 
-3. Open the selected folder and locate the `data` folder.
+3. 選択したフォルダを開き、`data` フォルダを探す。
 
-4. Drag and drop the `data` folder into `GTAV/lspdfr`.
+4. `data` フォルダを `GTAV/lspdfr` にドラッグ＆ドロップ。
 
-5. Replace files if prompted.
+5. 上書き確認が出たら「はい」を選択。
     ]]></Description>
   </Page>
 </Guide>
