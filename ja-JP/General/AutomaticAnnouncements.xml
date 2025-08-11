@@ -1,7 +1,7 @@
 <Translations>
-  <Title><![CDATA[{0} has updated.]]></Title>
-  <Description><![CDATA[This is an automated announcement.]]></Description>
-  <OldVersion><![CDATA[Old Version]]></OldVersion>
-  <NewVersion><![CDATA[New Version]]></NewVersion>
-  <Download><![CDATA[Download]]></Download>
+  <Title><![CDATA[{0} が更新されました。]]></Title>
+  <Description><![CDATA[これは自動アナウンスです。]]></Description>
+  <OldVersion><![CDATA[旧バージョン]]></OldVersion>
+  <NewVersion><![CDATA[新バージョン]]></NewVersion>
+  <Download><![CDATA[ダウンロード]]></Download>
 </Translations>
