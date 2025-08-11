@@ -12,6 +12,7 @@ OpenIVを使い、`gameconfig.xml` を `GTA V/mods/update/update.rpf/common/data
 **Packfile Limit Adjuster**  
 `PackfileLimitAdjuster.asi` と `PackfileLimitAdjuster.ini` をメインディレクトリにドラッグ＆ドロップします。
   ]]></Description>
+		<Button>
 			<Label><![CDATA[Custom Gameconfig]]></Label>
 			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
 			<Style>Link</Style>
