@@ -1,6 +1,9 @@
 <Command>
 		<Name>ENB</Name>
-		<Title><![CDATA[Loading GTAV with ENB.]]></Title>
+		<Title><![CDATA[ENBを使ってGTAVを起動する方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[It looks like you have ENB installed; this affects how RagePluginHook hooks with GTAV.\nTherefore you need to load GTAV without RAGE; only once you are in story mode can you ALT + TAB out and launch, letting it hook.]]></Description>
+		<Description><![CDATA[
+ENBがインストールされているようですが、これはRagePluginHookとGTAVの連携に影響を与えます。  
+そのため、RAGEなしでGTAVを起動し、ストーリーモードに入ってからALT + TABで切り替え、RagePluginHookをフックさせてください。
+  ]]></Description>
 	</Command>
