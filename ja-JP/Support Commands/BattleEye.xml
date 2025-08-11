@@ -1,13 +1,15 @@
 <Command>
 		<Name>BattleEye</Name>
-		<Title><![CDATA[Disable BattleEye.]]></Title>
+		<Title><![CDATA[BattleEyeを無効化する方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[BattleEye is an anti-cheat software. It is incompatible with modding GTAV, and should be disabled for LSPDFR to function correctly.
-		
-		To disable it, go to the **Rockstar Games Launcher** > **Settings** and **untick it**.]]></Description>
+		<Description><![CDATA[
+BattleEyeはチート対策ソフトですが、GTAVのMODと互換性がなく、LSPDFRを正常に動かすためには無効化が必要です。
+
+無効化するには、**Rockstar Games Launcher** の **設定** へ行き、**BattleEyeのチェックを外してください**。
+  ]]></Description>
 		<ImageUrl><![CDATA[https://i.imgur.com/bayScit.png]]></ImageUrl>
 		<Field>
-			<Name><![CDATA[If this doesn't work, disable it manually.]]></Name>
-			<Value><![CDATA[Go to your GTAV folder and add the following to your commandline.txt: `-nobattleye`]]></Value>
+			<Name><![CDATA[もしこれで無効化できない場合は手動で行ってください。]]></Name>
+			<Value><![CDATA[GTAVフォルダ内の `commandline.txt` に以下を追加してください： `-nobattleye`]]></Value>
 		</Field>
 	</Command>
