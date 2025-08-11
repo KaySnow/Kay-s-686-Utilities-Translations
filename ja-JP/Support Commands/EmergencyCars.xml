@@ -1,42 +1,48 @@
 <Command>
-		<Name>Emergency Cars</Name>
-		<Title><![CDATA[Replace Emergency Vehicles.]]></Title>
+		<Name>緊急車両のリスト</Name>
+		<Title><![CDATA[緊急車両の置き換えリスト]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[### Police\n
-	`POLICE` - Stanier
-	`POLICE2` - Buffalo
-	`POLICE3` - Vapid Interceptor
-	`POLICE4` - Unmarked Stanier
-	`POLICE5` - Stanier LE Cruiser
-	`POLGAUNTLET` - Gauntlet Interceptor
-	`POLICEOLD1` - Rancher
-	`POLICEOLD2` - Esperanto
-	`POLICEB` - Bike
-	`POLICET` - Transporter	
-	`POLICET3` - Burrito (Bail Enforcement)
-	`POLDORADO` - Dorado Cruiser	
-	`POLGREENWOOD` - Greenwood Cruiser	
-	`POLIMPALER5` - Impaler SZ Cruiser	
-	`POLIMPALER6` - Impaler LX Cruiser	
-	`POLTERMINUS` - Terminus Patrol
-	`POLFACTION2` - Outreach Faction
-	`POLCOQUETTE4` - Coquette D10 Pursuit
-	`POLCARACARA` - Caracara Pursuit
-	`PREDATOR` - Police Boat	
-	`POLMAV` - Maverick
-	`RIOT` - Brute Riot
-	`RIOT2` - Brute RCV
-	`PRANGER` - Granger
-	\n### Sheriff
-	`SHERIFF` - Stanier
-	`SHERIFF2` - Declasse SUV
-	\n### FIB
-	`FBI` - Buffalo
-	`FBI2` - Declasse SUV
-	\n### EMS & FD
-	`FIRETRUK` - MTL Firetruck
-	`AMBULANCE` - Brute Ambulance
-	\n### Lifeguards
-	`LGUARD` - Declasse SUV
-	`BLAZER` - Quadbike]]></Description>
+		<Description><![CDATA[
+### 警察車両
+`POLICE` - スタニア  
+`POLICE2` - バッファロー  
+`POLICE3` - ヴェイパッド インターセプター  
+`POLICE4` - マークなしスタニア  
+`POLICE5` - スタニア LE クルーザー  
+`POLGAUNTLET` - ガントレット インターセプター  
+`POLICEOLD1` - ランチャー  
+`POLICEOLD2` - エスペラント  
+`POLICEB` - バイク  
+`POLICET` - トランスポーター  
+`POLICET3` - バリト（保釈執行）  
+`POLDORADO` - ドラード クルーザー  
+`POLGREENWOOD` - グリーンウッド クルーザー  
+`POLIMPALER5` - インペーラー SZ クルーザー  
+`POLIMPALER6` - インペーラー LX クルーザー  
+`POLTERMINUS` - ターミナス パトロール  
+`POLFACTION2` - アウトリーチ ファクション  
+`POLCOQUETTE4` - コケット D10 パースート  
+`POLCARACARA` - カラカラ パースート  
+`PREDATOR` - 警察ボート  
+`POLMAV` - マーベリック  
+`RIOT` - ブルート ライオット  
+`RIOT2` - ブルート RCV  
+`PRANGER` - グレンジャー  
+
+### 保安官車両  
+`SHERIFF` - スタニア  
+`SHERIFF2` - デクラッセ SUV  
+
+### FIB車両  
+`FBI` - バッファロー  
+`FBI2` - デクラッセ SUV  
+
+### EMS & 消防車両  
+`FIRETRUK` - MTL 消防車  
+`AMBULANCE` - ブルート 救急車  
+
+### ライフガード車両  
+`LGUARD` - デクラッセ SUV  
+`BLAZER` - クワッドバイク  
+  ]]></Description>
 	</Command>
