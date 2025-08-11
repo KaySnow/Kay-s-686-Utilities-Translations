@@ -1,10 +1,10 @@
 <Command>
-		<Name>Keybinds</Name>
-		<Title><![CDATA[Setting & editing your keybinds.]]></Title>
+		<Name>キー割り当て</Name>
+		<Title><![CDATA[キー設定・編集方法]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please see a list of valid keybinds on the Microsoft Website.]]></Description>
+		<Description><![CDATA[有効なキー設定一覧はMicrosoftの公式サイトをご覧ください。]]></Description>
   <Button>
-			<Label><![CDATA[Keybind Options]]></Label>
+			<Label><![CDATA[キー設定オプション]]></Label>
 			<Url><![CDATA[https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=windowsdesktop-8.0]]></Url>
 			<Style>Link</Style>
 		</Button>
