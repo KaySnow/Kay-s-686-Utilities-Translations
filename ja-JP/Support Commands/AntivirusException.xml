@@ -1,10 +1,13 @@
 <Command>
-		<Name>Antivirus Exception</Name>
-		<Title><![CDATA[Antivirus Exception.]]></Title>
+		<Name>ウイルス対策ソフトの例外設定</Name>
+		<Title><![CDATA[ウイルス対策ソフトの例外設定]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please make the GTAV directory an exception to your antivirus and Windows Defender. For your specific antivirus, use Google or the documentation of your specific antivirus solution for instructions.]]></Description>
+		<Description><![CDATA[
+GTAVフォルダをウイルス対策ソフトやWindows Defenderの例外に設定してください。  
+ご利用のウイルス対策ソフトごとの設定方法は、Google検索や公式ドキュメントを参照してください。
+  ]]></Description>
 		<Button>
-			<Label><![CDATA[Windows Security]]></Label>
+			<Label><![CDATA[Windows セキュリティ]]></Label>
 			<Url><![CDATA[https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26]]></Url>
 			<Style>Link</Style>
 		</Button>
