@@ -1,7 +1,7 @@
 <Command>
-		<Name>Log</Name>
-		<Title><![CDATA[Attach your RagePluginHook log.]]></Title>
+		<Name>ログ</Name>
+		<Title><![CDATA[RagePluginHookのログを添付してください。]]></Title>
 		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please attach your RagePluginHook log - a **text document** found in your main directory; it is **not found in your logs folder.**]]></Description>
+		<Description><![CDATA[メインディレクトリにある**テキストファイル**形式のRagePluginHookログを添付してください。 **logsフォルダ内にはありません。**]]></Description>
 </Command>
