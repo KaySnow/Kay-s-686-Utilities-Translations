@@ -1,0 +1,7 @@
+<Translations>
+  <Title><![CDATA[{0} has updated.]]></Title>
+  <Description><![CDATA[This is an automated announcement.]]></Description>
+  <OldVersion><![CDATA[Old Version]]></OldVersion>
+  <NewVersion><![CDATA[New Version]]></NewVersion>
+  <Download><![CDATA[Download]]></Download>
+</Translations>
