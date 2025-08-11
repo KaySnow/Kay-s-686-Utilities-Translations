@@ -1,0 +1,6 @@
+<Command>
+		<Name>ENB</Name>
+		<Title><![CDATA[Loading GTAV with ENB.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[It looks like you have ENB installed; this affects how RagePluginHook hooks with GTAV.\nTherefore you need to load GTAV without RAGE; only once you are in story mode can you ALT + TAB out and launch, letting it hook.]]></Description>
+	</Command>
