@@ -1,0 +1,7 @@
+<Command>
+		<Name>Timeout</Name>
+		<Title><![CDATA[Increase your Plugin Timeout Threshold.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Increase your Plugin Timeout Threshold to **60,000** - this can be done in the RAGE settings.\nIn order to access these settings, hold shift while opening RAGE, or press the cog on the splash screen.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>
