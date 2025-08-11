@@ -1,39 +1,39 @@
 <Translations>
-  <FileUpdates><![CDATA[File Updates]]></FileUpdates>
-  <OldVersion><![CDATA[Old Version]]></OldVersion>
-  <NewVersion><![CDATA[New Version]]></NewVersion>
-  <Version><![CDATA[Version]]></Version>
-  <LatestVersion><![CDATA[Latest Version:]]></LatestVersion>
-  <Category><![CDATA[Category]]></Category>
-  <Category2><![CDATA[Category:]]></Category2>
-  <NewUpload><![CDATA[{0} has been uploaded.]]></NewUpload>
-  <NewUpdate><![CDATA[{0} has been updated.]]></NewUpdate>
-  <GetDMUpdates><![CDATA[Get DM Updates on this file!]]></GetDMUpdates>
+  <FileUpdates><![CDATA[ファイル更新]]></FileUpdates>
+  <OldVersion><![CDATA[旧バージョン]]></OldVersion>
+  <NewVersion><![CDATA[新バージョン]]></NewVersion>
+  <Version><![CDATA[バージョン]]></Version>
+  <LatestVersion><![CDATA[最新バージョン:]]></LatestVersion>
+  <Category><![CDATA[カテゴリー]]></Category>
+  <Category2><![CDATA[カテゴリー:]]></Category2>
+  <NewUpload><![CDATA[{0} がアップロードされました。]]></NewUpload>
+  <NewUpdate><![CDATA[{0} が更新されました。]]></NewUpdate>
+  <GetDMUpdates><![CDATA[このファイルのDM更新通知を受け取る！]]></GetDMUpdates>
 
-  <PanelTitle><![CDATA[686 Utilities: Your LCPDFR.com Subscriptions]]></PanelTitle>
-  <PanelDescription><![CDATA[You'll receive a Direct Message when any of these files update.
-To add a new subscription, use 'Add Subscription'.]]></PanelDescription>
-  <PanelSubscriptionCount><![CDATA[Total Subscriptions: {0}]]></PanelSubscriptionCount>
-  <PanelPreviousPage><![CDATA[Previous Page]]></PanelPreviousPage>
-  <PanelNextPage><![CDATA[Next Page]]></PanelNextPage>
-  <PanelAddSubscription><![CDATA[Add Subscription]]></PanelAddSubscription>
-  <PanelSearchAgain><![CDATA[Search Again]]></PanelSearchAgain>
-  <PanelManageAllSubscriptions><![CDATA[Manage All Subscriptions]]></PanelManageAllSubscriptions>
+  <PanelTitle><![CDATA[686 Utilities: LCPDFR.com サブスクリプション]]></PanelTitle>
+  <PanelDescription><![CDATA[これらのファイルが更新された際にDMを受け取ります。
+新しいサブスクリプションを追加するには「サブスクリプションを追加」を使用してください。]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[合計サブスクリプション数: {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[前のページ]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[次のページ]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[サブスクリプションを追加]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[再検索]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[すべてのサブスクリプションを管理]]></PanelManageAllSubscriptions>
 
-  <PanelSelectFilePlaceholder><![CDATA[Select a file below!]]></PanelSelectFilePlaceholder>
-  <PanelSubscribeToFilePlaceholder><![CDATA[Subscribe to a file below!]]></PanelSubscribeToFilePlaceholder>
+  <PanelSelectFilePlaceholder><![CDATA[下からファイルを選択してください！]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[下からファイルを購読してください！]]></PanelSubscribeToFilePlaceholder>
 
-  <PanelAlreadySubscribed><![CDATA[You are already subscribed to this file. Try refreshing your panel!]]></PanelAlreadySubscribed>
-  <PanelAlreadyUnsubscribed><![CDATA[You are already unsubscribed to this file. Try refreshing your panel!]]></PanelAlreadyUnsubscribed>
-  <PanelActionCancelled><![CDATA[Action cancelled.]]></PanelActionCancelled>
-  <PanelSubscribedToFile><![CDATA[Subscribed to **{0}**.]]></PanelSubscribedToFile>
-  <PanelUnsubscribedFromFile><![CDATA[Unsubscribed from **{0}**.]]></PanelUnsubscribedFromFile>
+  <PanelAlreadySubscribed><![CDATA[すでにこのファイルを購読しています。パネルを更新してみてください！]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[でにこのファイルの購読を解除しています。パネルを更新してみてください！]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[操作がキャンセルされました。]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[**{0}** を購読しました。]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[**{0}** の購読を解除しました。]]></PanelUnsubscribedFromFile>
 
-  <PanelConfirmUnsubTitle><![CDATA[Would you like to unsubscribe from **{0}**?]]></PanelConfirmUnsubTitle>
-  <PanelConfirmSubTitle><![CDATA[Would you like to subscribe to **{0}**?]]></PanelConfirmSubTitle>
-  <PanelYes><![CDATA[Yes]]></PanelYes>
-  <PanelNo><![CDATA[No]]></PanelNo>
+  <PanelConfirmUnsubTitle><![CDATA[**{0}** の購読を解除しますか？]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[**{0}** を購読しますか？]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[はい]]></PanelYes>
+  <PanelNo><![CDATA[いいえ]]></PanelNo>
 
-  <PanelSearchModalTitle><![CDATA[Search for a file!]]></PanelSearchModalTitle>
-  <PanelSearchModalLabel><![CDATA[Enter the name of the file on LCPDFR.com]]></PanelSearchModalLabel>
+  <PanelSearchModalTitle><![CDATA[ファイルを検索]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[LCPDFR.com 上のファイル名を入力してください]]></PanelSearchModalLabel>
 </Translations>
