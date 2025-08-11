@@ -1,51 +1,53 @@
-<Guide id="install_lspdfr" name="How to Install LSPDFR">
+<Guide id="install_lspdfr" name="LSPDFR のインストール方法">
   <Author>Charlie686</Author>
 
   <Page id="home">
-    <Title><![CDATA[How do I install LSPDFR?]]></Title>
+    <Title><![CDATA[LSPDFR のインストール方法]]></Title>
     <Description><![CDATA[
-To begin, use the 'Download LSPDFR' button which will take you to the LSPD First Response page.
-When downloading, ensure to choose the **Manual Install**.
+まず、「Download LSPDFR」ボタンをクリックすると、LSPD First Response のページが開きます。  
+ダウンロード時は必ず **Manual Install** を選択してください。
 ]]></Description>
     <ImageUrl>https://i.imgur.com/M6o9uAJ.png</ImageUrl>
     <Fields>
-      <Field name="What about RAGEPluginHook?" inline="true"><![CDATA[
-RAGEPluginHook is already included in the LSPDFR download itself.
+      <Field name="RAGEPluginHookはどうしますか？" inline="true"><![CDATA[
+RAGEPluginHook は LSPDFR のダウンロードにすでに含まれています。
 ]]></Field>
     </Fields>
     <Buttons>
-      <Button type="interactive" targetPage="manualinstall"><![CDATA[Installing the Manual Install]]></Button>
+      <Button type="interactive" targetPage="manualinstall"><![CDATA[Manual Install の手順]]></Button>
       <Button type="link" url="https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/"><![CDATA[Download LSPDFR]]></Button>
     </Buttons>
   </Page>
 
   <Page id="manualinstall">
-    <Title><![CDATA[Installing LSPDFR via the Manual Install.]]></Title>
+    <Title><![CDATA[Manual Install で LSPDFR をインストールする]]></Title>
     <Description><![CDATA[
-Open the LSPD First Response manual install, and you should see several files and a few folders.
+LSPD First Response の手動インストールファイルを開くと、複数のファイルとフォルダが表示されます。 
 
-Drag and drop all files and folders except the `RPH_Readme.txt` file and the `Licenses` folder into your GTAV folder.
+`RPH_Readme.txt` ファイルと `Licenses` フォルダ以外のすべてのファイルとフォルダを GTAV フォルダにドラッグ＆ドロップしてください。
 
-**If prompted, click Replace All Files.**
+**上書き確認が出た場合は「ファイルを置き換える」を選択してください。**
 ]]></Description>
     <ImageUrl>https://i.imgur.com/UpFP9YY.png</ImageUrl>
     <Buttons>
-      <Button type="interactive" targetPage="firsttime"><![CDATA[Running LSPDFR for the first time]]></Button>
+      <Button type="interactive" targetPage="firsttime"><![CDATA[LSPDFR を初めて起動する]]></Button>
     </Buttons>
   </Page>
 
   <Page id="firsttime">
-    <Title><![CDATA[Running LSPDFR for the first time.]]></Title>
+    <Title><![CDATA[LSPDFR を初めて起動する]]></Title>
     <Description><![CDATA[
-Launch `RAGEPluginHook.exe` in your GTAV folder.
-It will take you through the first-time setup, and then launch GTAV.
+GTAV フォルダ内の `RAGEPluginHook.exe` を起動します。  
+初回セットアップが始まり、その後 GTAV が起動します。
 ]]></Description>
     <Fields>
-      <Field name="Before you play, make sure:" inline="false"><![CDATA[
-You have already completed the prologue for GTAV. LSPDFR requires you to be in free roam to work correctly.
+      <Field name="プレイ前に確認:" inline="false"><![CDATA[
+GTAV のプロローグをすでに完了している必要があります。  
+LSPDFR はフリーローム状態でないと正常に動作しません。
 ]]></Field>
-      <Field name="I am in game with RAGEPluginHook, however LSPDFR is not loaded?" inline="false"><![CDATA[
-You may need to load it in game. Open the RPH console (F4 by default), and type in `LoadPlugin LSPD First Response.dll`.
+      <Field name="RAGEPluginHook で起動したのに LSPDFR が読み込まれない？" inline="false"><![CDATA[
+ゲーム内で読み込む必要がある場合があります。  
+RPH コンソール（デフォルト F4）を開き、`LoadPlugin LSPD First Response.dll` と入力してください。
 ]]></Field>
     </Fields>
   </Page>
