@@ -1,0 +1,6 @@
+<Command>
+		<Name>Perms</Name>
+		<Title><![CDATA[Configure your GTAV folder permissions.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[We'd like you to change your GTAV folder permissions. Please go to your GTAV folder, right click & select Properties - Security.\nGive the following full control:\n• Users.\n• SYSTEM.\n• Administrator.]]></Description>
+	</Command>
