@@ -1,8 +1,17 @@
 <Command>
-		<Name>Core Links</Name>
-		<Title><![CDATA[Core links.]]></Title>
+		<Name>基本リンク集</Name>
+		<Title><![CDATA[基本リンク集]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[**LSPDFR & RAGEPluginHook**\nInstall the manual install then drag and drop all the files, except licenses and the readme, into your main directory.\n\n**ScriptHookV**\nIgnoring NativeTrainer.asi, drag and drop the files into your main directory.\n\n**OpenIV**\nDownload the Windows Executable, and run the installer.]]></Description>
+		<Description><![CDATA[
+**LSPDFR & RAGEPluginHook**  
+マニュアルインストールを行い、licensesフォルダとreadmeファイル以外のすべてのファイルをメインディレクトリにドラッグ＆ドロップしてください。
+
+**ScriptHookV**  
+NativeTrainer.asiを除き、ファイルをメインディレクトリにドラッグ＆ドロップしてください。
+
+**OpenIV**  
+Windows用実行ファイルをダウンロードして、インストーラーを実行してください。
+  ]]></Description>
 		<Button>
 			<Label><![CDATA[LSPDFR & RAGEPluginHook]]></Label>
 			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/]]></Url>
