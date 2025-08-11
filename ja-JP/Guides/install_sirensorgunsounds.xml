@@ -1,65 +1,66 @@
-<Guide id="install_sirensorgunsounds" name="How to Install Sirens / Gun Sounds">
-  <Author>Charlie686</Author>
+<Guide id="install_sirensorgunsounds" name="サイレン / 銃声のインストール方法">
+  <Author>aiku910</Author>
 
   <Page id="home">
-    <Title><![CDATA[Installing Sirens / Gun Sounds]]></Title>
+    <Title><![CDATA[サイレン / 銃声のインストール]]></Title>
     <Description><![CDATA[
-Sirens / Gun Sounds can come in several different formats. The steps to install them vary depending on what you've downloaded.
+サイレン / 銃声のMODにはいくつかの形式があります。  
+ダウンロードした形式によってインストール手順が異なります。
 
-**What format is your siren mod in?**
+**導入したいサイレンMODはどの形式ですか？**
     ]]></Description>
     <Buttons>
-      <Button type="interactive" targetPage="format_oac"><![CDATA[.oac File (OpenFormats)]]></Button>
-      <Button type="interactive" targetPage="format_awc"><![CDATA[.awc File Only]]></Button>
-      <Button type="interactive" targetPage="format_wav"><![CDATA[.wav Files Only]]></Button>
+      <Button type="interactive" targetPage="format_oac"><![CDATA[.oac ファイル（OpenFormats）]]></Button>
+      <Button type="interactive" targetPage="format_awc"><![CDATA[.awc ファイルのみ]]></Button>
+      <Button type="interactive" targetPage="format_wav"><![CDATA[.wav ファイルのみ]]></Button>
     </Buttons>
   </Page>
 
   <Page id="format_oac">
-    <Title><![CDATA[Installing a .oac Siren / Gun Sounds Pack]]></Title>
+    <Title><![CDATA[.oac サイレン / 銃声パックのインストール]]></Title>
     <Description><![CDATA[
-If your siren / gun sounds mod comes with a `.oac` file and a `vehicles` folder, follow these steps:
+サイレン / 銃声MODに `.oac` ファイルと `vehicles` フォルダが含まれている場合は以下の手順でインストールします：
 
-1. Open OpenIV and go to:  
+1. OpenIV を開き、次の場所へ移動：  
    `GTAV/mods/x64/audio/sfx/resident.rpf`
-2. Make sure **Edit Mode** is enabled.
-3. Drag and drop the `.oac` file into this folder.  
-   (It will rebuild `vehicles.awc` automatically.)
+2. **編集モード** を有効にします。
+3. `.oac` ファイルをこのフォルダにドラッグ＆ドロップ。  
+   （`vehicles.awc` は自動的に再構築されます。）
 
-🚨 If prompted to overwrite, click **Yes**.
+🚨 上書き確認が出たら **はい** を選択してください。
     ]]></Description>
   </Page>
 
   <Page id="format_awc">
-    <Title><![CDATA[Installing a .awc Siren / Gun Sounds Pack]]></Title>
+    <Title><![CDATA[.awc サイレン / 銃声パックのインストール]]></Title>
     <Description><![CDATA[
-If your siren mod comes with a precompiled `vehicles.awc` file:
+サイレンMODにすでにコンパイル済みの `vehicles.awc` ファイルが含まれている場合：
 
-1. Open OpenIV and go to:  
+1. OpenIV を開き、次の場所へ移動：  
    `GTAV/mods/x64/audio/sfx/resident.rpf`
-2. Enable **Edit Mode**.
-3. Drag and drop the `vehicles.awc` file into this folder.
+2. **編集モード** を有効にします。
+3. `vehicles.awc` ファイルをこのフォルダにドラッグ＆ドロップ。
     ]]></Description>
   </Page>
 
   <Page id="format_wav">
-    <Title><![CDATA[Installing .wav Siren / Gun Sound Files]]></Title>
+    <Title><![CDATA[.wav サイレン / 銃声ファイルのインストール]]></Title>
     <Description><![CDATA[
-If your siren mod comes with raw `.wav` files only:
+サイレンMODに生の `.wav` ファイルのみが含まれている場合：
 
-1. Open OpenIV and go to:  
+1. OpenIV を開き、次の場所へ移動：  
    `GTAV/mods/x64/audio/sfx/resident.rpf`
-2. Right-click `vehicles.awc` > **Export to OpenFormats**  
-   Export to an empty folder.
-3. You will now see a `vehicles` folder and a `.oac` file.
-4. Replace the `.wav` files inside the `vehicles` folder with the ones from your siren / gun sounds mod.
-5. Drag the `.oac` file back into `resident.rpf` to rebuild the `.awc`.
+2. `vehicles.awc` を右クリック → **OpenFormats にエクスポート**  
+   空のフォルダにエクスポート。
+3. `vehicles` フォルダと `.oac` ファイルが作成されます。
+4. `vehicles` フォルダ内の `.wav` ファイルを、サイレン / 銃声MODのファイルで置き換えます。
+5. `.oac` ファイルを `resident.rpf` にドラッグ＆ドロップして `.awc` を再構築します。
 
-📺 Need help? Watch this video guide:  
-[YouTube: Install Sirens / Gun Sounds with .wav files](https://www.youtube.com/watch?v=ymLrNTjGBXA)
+📺 詳しい手順は動画ガイドをご覧ください：  
+[YouTube: .wav ファイルでサイレン / 銃声をインストールする方法](https://www.youtube.com/watch?v=ymLrNTjGBXA)
     ]]></Description>
     <Buttons>
-      <Button type="link" url="https://www.youtube.com/watch?v=ymLrNTjGBXA"><![CDATA[Watch Video Guide]]></Button>
+      <Button type="link" url="https://www.youtube.com/watch?v=ymLrNTjGBXA"><![CDATA[動画ガイドを見る]]></Button>
     </Buttons>
   </Page>
 </Guide>
