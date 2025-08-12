@@ -1,10 +1,10 @@
 <Command>
 		<Name>.على التحديث GTA V اجبار</Name>
-		<Title><![CDATA[**.على التحديث GTA V اجبار**]]></Title>
+		<Title><![CDATA[Force GTA V Update]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[عندك أقدم من آخر إصدار نازل ؛  ممكن تحتاج تجبر اللعبة تتحدث GTA V إذا نسخة
-   وبعدين سوِّ فحص لملفات اللعبة 	GTAV.exe احذف ملف	عشان تسوي كذا ؛
-   **.اضغط الزر تحت عشان تشوف التعليمات المناسبة**]]></Description>
+		<Description><![CDATA[  إذا نسخة   GTA V   عندك     أقدم من آخر إصدار نازل    ؛  ممكن تحتاج تجبر اللعبة تتحدث
+   	عشان تسوي كذا ؛     احذف ملف    `GTAV.exe`      وبعدين سوِّ فحص لملفات اللعبة 	  
+   **اضغط الزر تحت عشان تشوف التعليمات المناسبة.**]]></Description>
 		<Button>
 			<Label><![CDATA[ايبك جيمز]]></Label>
 			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>

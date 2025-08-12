@@ -2,7 +2,7 @@
 		<Name>اصلاح ملفات اللعبه</Name>
 		<Title><![CDATA[.تحقق من ملفات اللعبه]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[.عشان نقدر نعرف ليه لعبتك ما تشتغل وقاعد يجيك ايررور كل شوي ؛ تأكد من ملفات اللعبة باستخدام الرابط المناسب تحت]]></Description>
+		<Description><![CDATA[**.عشان نقدر نعرف ليه لعبتك ما تشتغل وقاعد يجيك ايرور كل شوي ؛ تأكد من ملفات اللعبة باستخدام الرابط المناسب تحت**]]></Description>
 		<Button>
 			<Label><![CDATA[نسخه ايبك جيمز]]></Label>
 			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>

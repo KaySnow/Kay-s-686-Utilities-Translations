@@ -2,11 +2,12 @@
 		<Name>BattleEye</Name>
 		<Title><![CDATA[.BattleEye قفل ال]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[ولازم تطفّيه علشان تعرف تلعب اللعبه بمودات GTA V  هو برنامج لمكافحة الغش ؛ غير متوافق مع مودات BattleEye
-.BattleEye وبعدين **شيل علامة الصح** عند خيار  Rockstar Games Launcher → Settings افتح	: عشان تطفّيه]]></Description>
+		<Description><![CDATA[ باتل اي هو برنامج لمكافحة الغش  ولازم تطفّيه علشان تعرف تلعب اللعبه بمودات  ؛ غير متوافق مع مودات GTA V 
+  Rockstar Games Launcher → Settings افتح	عشان تطفّيه
+  .BattleEye وبعدين **شيل علامة الصح** عند خيار]]></Description>
 		<ImageUrl><![CDATA[https://i.imgur.com/bayScit.png]]></ImageUrl>
 		<Field>
-			<Name><![CDATA[.إذا ما نفع، طفّه يدويًا]]></Name>
+			<Name><![CDATA[إذا ما نفع، طفّه يدويًا.]]></Name>
 			<Value><![CDATA[ `-nobattleye` :  commandline.txt وأضف السطر هذا في ملف GTA V روح لمجلد]]></Value>
 		</Field>
 	</Command>
