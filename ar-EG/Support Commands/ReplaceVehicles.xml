@@ -1,8 +1,8 @@
 <Command>
 		<Name>سيارات الريبليس</Name>
-		<Title><![CDATA[تركيب سيارات الريبليس]]></Title>
+		<Title><![CDATA[تركيب سيارات الريبليس.]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[**\nGTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/  :  جميع سيارات الريبليس تركب في نهايه هذا المسار ]]></Description>
+		<Description><![CDATA[**GTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf**  :  جميع سيارات الريبليس تركب في نهايه هذا المسار ]]></Description>
 		<Field>
 			<Name><![CDATA[تبي شرح فيديو؟]]></Name>
 			<Value><![CDATA[ [من هنا](https://www.youtube.com/watch?v=SAGIisHY5gc)  اتفرج علي شرح تركيب المركبات الريبليس]]></Value>

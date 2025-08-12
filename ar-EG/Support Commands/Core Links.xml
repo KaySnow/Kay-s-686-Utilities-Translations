@@ -3,11 +3,11 @@
 		<Title><![CDATA[.الروابط الاساسيه]]></Title>
 		<Color>89, 0, 255</Color>
 		<Description><![CDATA[**LSPDFR & RAGEPluginHook**
-	   من مود الشرطه ؛          بعدين اسحب  وحط كل الملفات  داخل مجلد اللعبة Manual نزّل نسخة ال 
+	        نزّل نسخة ال  Manual     من مود الشرطه ؛        بعدين اسحب  وحط كل الملفات  داخل مجلد اللعبة
 	 **ScriptHookV**
-   واسحب وحط باقي الملفات داخل مجلد اللعبة          args.txt و NativeTrainer.asi تجاهل ملف
+     تجاهل ملف args.txt و NativeTrainer.asi       ؛       واسحب وحط باقي الملفات داخل مجلد اللعبة،
 	**OpenIV**
-.نزّل ملف التشغيل الخاص بالويندوز، وشغّل المُثبّت]]></Description>
+**.نزّل ملف التشغيل الخاص بالويندوز، وشغّل المُثبّت**]]></Description>
 		<Button>
 			<Label><![CDATA[LSPDFR & RAGEPluginHook]]></Label>
 			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/]]></Url>

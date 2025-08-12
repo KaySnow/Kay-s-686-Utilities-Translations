@@ -1,6 +1,6 @@
 <Command>
 		<Name>Commandline</Name>
-		<Title><![CDATA[.حقك commandline إعداد ملف الـ ]]></Title>
+		<Title><![CDATA[commandline إعداد ملف الـ]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[ بعد ما تخلص، احفظ الملف.    `-windowed`   هذا ملف نصي ؛   امسح كل الكلام اللي فيه   بعدين أضف commandline.txt عندك ملف اسمه GTA V في مجلد لعبة]]></Description>
+		<Description><![CDATA[            **في مجلد لعبة  GTA V     عندك ملف اسمه     commandline.txt    هذا مستند نصي      ؛         امسح كل الكلام اللي فيه       بعدين أضف       `-windowed`        بعد ما تخلص، احفظ الملف**.]]></Description>
 	</Command>

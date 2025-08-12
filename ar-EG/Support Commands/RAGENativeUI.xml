@@ -5,7 +5,7 @@
 		<Description><![CDATA[RAGENativeUI عشان نقدر نشخص المشكلة عندك، لازم تثبّت أو تحدّث]]></Description>
 		<Field>
 			<Name><![CDATA[: طريقه التركيب]]></Name>
-			<Value><![CDATA[وحطه في مجلد اللعبه .dll افتح الملف واسحب الملف الي علي هيئه ]]></Value>
+			<Value><![CDATA[افتح الملف واسحب ال الملف الي علي هيئه        `dll.`       وحطه في مجلد اللعبه.]]></Value>
 		</Field>
 		<ImageUrl><![CDATA[https://i.imgur.com/RiVkpHu.png]]></ImageUrl>
 		<Button>
