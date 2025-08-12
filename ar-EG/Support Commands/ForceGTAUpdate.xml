@@ -1,0 +1,23 @@
+<Command>
+		<Name>.على التحديث GTA V اجبار</Name>
+		<Title><![CDATA[**.على التحديث GTA V اجبار**]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[عندك أقدم من آخر إصدار نازل ؛  ممكن تحتاج تجبر اللعبة تتحدث GTA V إذا نسخة
+   وبعدين سوِّ فحص لملفات اللعبة 	GTAV.exe احذف ملف	عشان تسوي كذا ؛
+   **.اضغط الزر تحت عشان تشوف التعليمات المناسبة**]]></Description>
+		<Button>
+			<Label><![CDATA[ايبك جيمز]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[ستيم]]></Label>
+			<Url><![CDATA[https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[روكستار]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>

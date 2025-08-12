@@ -1,0 +1,18 @@
+<Translations>
+  <Title><![CDATA[686 Utilities: META أداة دمج ملفات]]></Title>
+  <MergeResultsHeader><![CDATA[{0} : نتائج الدمج ]]></MergeResultsHeader>
+  <MergeResultsDetectedFile><![CDATA[تم اكتشاف الملف : **{0}**]]></MergeResultsDetectedFile>
+  <MergeResultsAddedEntries><![CDATA[**العناصر  المضافة :** `{0}`]]></MergeResultsAddedEntries>
+  <MergeResultsModifiedEntries><![CDATA[**العناصر المُعدلة :** `{0}`]]></MergeResultsModifiedEntries>
+  <MergeResultsDiscardedEntries><![CDATA[**العناصر المُلغاة :** `{0}`]]></MergeResultsDiscardedEntries>
+
+  <OriginalFileHeader><![CDATA[: الملف الأصلي الذي قمت برفعه]]></OriginalFileHeader>
+  <OriginalFileDescription><![CDATA[هذا الملف تم استخدامه كملف أساسي ؛      أنت دمجت الملف الثاني اللي عندك مع هذا الملف    وهناك نسخة احتياطية من الملف متوفرة هنا]]></OriginalFileDescription>
+
+  <ModifiedFileHeader><![CDATA[: الملف المعدل الذي قمت برفعه]]></ModifiedFileHeader>
+  <ModifiedFileDescription><![CDATA[هذا الملف تم استخدامه كملف معدل
+بالنسبة للمركبات اللي اخترتها، تم تعديل أو إضافة بياناتها في ملفك الأصلي باستخدام هذا الملف.     وفيه نسخة احتياطية من الملف متوفرة هنا]]></ModifiedFileDescription>
+
+  <MergedFileHeader><![CDATA[: ملفك الجديد بعد الدمج:]]></MergedFileHeader>
+  <MergedFileDescription><![CDATA[هذا الملف هو ملفك الجديد بعد الدمج.    هو يجمع التعديلات من الملف المعدل عندك،     ويدمجها في الملف الأصلي، للمركبات اللي اخترتها]]></MergedFileDescription>
+</Translations>

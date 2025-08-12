@@ -1,0 +1,16 @@
+<Command>
+		<Name>RNUI (RageNativeUI)</Name>
+		<Title><![CDATA[RAGENativeUI.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[RAGENativeUI عشان نقدر نشخص المشكلة عندك، لازم تثبّت أو تحدّث]]></Description>
+		<Field>
+			<Name><![CDATA[: طريقه التركيب]]></Name>
+			<Value><![CDATA[وحطه في مجلد اللعبه .dll افتح الملف واسحب الملف الي علي هيئه ]]></Value>
+		</Field>
+		<ImageUrl><![CDATA[https://i.imgur.com/RiVkpHu.png]]></ImageUrl>
+		<Button>
+			<Label><![CDATA[RAGENativeUI]]></Label>
+			<Url><![CDATA[https://github.com/alexguirre/RAGENativeUI/releases]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>

@@ -1,0 +1,11 @@
+<Command>
+		<Name>ازرار التحكم</Name>
+		<Title><![CDATA[تعيين وتعديل أزرار التحكم]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[.شوف قائمة أزرار التحكم المسموح بها في موقع مايكروسوفت]]></Description>
+  <Button>
+			<Label><![CDATA[ : خيارات أزرار التحكم]]></Label>
+			<Url><![CDATA[https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=windowsdesktop-8.0]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>

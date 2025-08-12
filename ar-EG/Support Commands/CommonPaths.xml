@@ -1,0 +1,13 @@
+<Command>
+		<Name>مسارات التثبيت الشائعه</Name>
+		<Title><![CDATA[: دي ملفات معروفه ومسار تركيبها ]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[dlclist.xml, gameconfig.xml, visualsettings.dat و handling.meta:  
+		`mods/update/update.rpf/common/data`     يتم تركيبهم في هذا المسار
+		
+		vehicles.meta :
+`mods/update/update.rpf/common/data/levels/gta5`  يتم تركيبهم في هذا المسار
+
+carvariations.meta, carcols.meta : 
+`mods/update/x64/dlcpacks/mpchristmas2/dlc/common/data` يتم تركيبهم في هذا المسار]]></Description>
+	</Command>

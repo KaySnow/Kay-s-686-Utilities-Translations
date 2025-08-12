@@ -1,0 +1,26 @@
+<Command>
+		<Name>التعديلات</Name>
+		<Title><![CDATA[Adjusters</Name>
+		<Title><![CDATA[.Packfile Limit Adjuster وأداة Heap Adjuster  مخصص ؛ مع أداة Gameconfig ثبّت ملف ]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[   `GTA V/mods/update/update.rpf/common/data`   : وحطه في نهايه هذا المسار gameconfig.xml اسحب ملف OpenIV المخصص**  ؛  باستخدام برنامج Gameconfig ملف**
+		**Heap Adjuster**
+		.وحطهم في مجلد اللعبه  HeapAdjuster.ini و HeapAdjuster.asi 	اسحب ملفات
+		**Packfile Limit Adjuster**
+	.وحطهم في مجلد اللعبه  PackfileLimitAdjuster.asi و PackfileLimitAdjuster.ini	اسحب ملفات]]></Description>
+		<Button>
+			<Label><![CDATA[ تحصله من هنا Gameconfigال]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Heap Adjuster من هنا]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Packfile Limit Adjuster من هنا]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>

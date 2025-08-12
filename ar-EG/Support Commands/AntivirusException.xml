@@ -1,0 +1,12 @@
+<Command>
+		<Name>استثناء في برنامج الحماية</Name>
+		<Title><![CDATA[Antivirus Exception.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[ (Windows Defender) .لقائمة الاستثناءات في برنامج الحماية وجدار حماية ويندوز GTA V رجاءً أضف مجلد
+		بالنسبة لبرنامج الحماية اللي تستخدمه، تقدر تبحث في جوجل أو ترجع لشرح البرنامج نفسه عشان تعرف طريقة اضافته كاستثناء]]></Description>
+		<Button>
+			<Label><![CDATA[حمايه الويندوز]]></Label>
+			<Url><![CDATA[https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>
