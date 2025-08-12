@@ -1,0 +1,26 @@
+<Command>
+		<Name>الروابط الاساسيه</Name>
+		<Title><![CDATA[.الروابط الاساسيه]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**LSPDFR & RAGEPluginHook**
+	   من مود الشرطه ؛          بعدين اسحب  وحط كل الملفات  داخل مجلد اللعبة Manual نزّل نسخة ال 
+	 **ScriptHookV**
+   واسحب وحط باقي الملفات داخل مجلد اللعبة          args.txt و NativeTrainer.asi تجاهل ملف
+	**OpenIV**
+.نزّل ملف التشغيل الخاص بالويندوز، وشغّل المُثبّت]]></Description>
+		<Button>
+			<Label><![CDATA[LSPDFR & RAGEPluginHook]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[ScriptHookV]]></Label>
+			<Url><![CDATA[http://www.dev-c.com/gtav/scripthookv/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[OpenIV]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/scripts/43441-openiv-archive-mirror/]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>

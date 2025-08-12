@@ -1,0 +1,9 @@
+<Command>
+		<Name>OpenIV حذف مودات</Name>
+		<Title><![CDATA[OpenIV عشان تحذف مودات من]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[1-  7-Zip.  او  WinRAR  نزّل برنامج
+		2- assembly.xml ودوّر على ملف اسمه OIVافتح ملف الـ
+		3- هناك بتشوف كل الملفات اللي تم استبدالها ؛ والحين لازم تحذفها
+		 (**mods!تأكد إنك داخل مجلد الـ**) ]]></Description>
+	</Command>
