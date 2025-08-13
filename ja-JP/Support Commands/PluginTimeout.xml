@@ -1,5 +1,5 @@
 <Command>
-		<Name>タイムアウト</Name>
+		<Name>プラグインのタイムアウト閾値を増やす</Name>
 		<Title><![CDATA[プラグインのタイムアウト閾値を増やす]]></Title>
 		<Color>89, 0, 255</Color>
 		<Description><![CDATA[
