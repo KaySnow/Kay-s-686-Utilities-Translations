@@ -1,9 +1,9 @@
 <Command>
-		<Name>Adjusters</Name>
+		<Name>クラッシュ対策MOD</Name>
 		<Title><![CDATA[Custom Gameconfig, Heap & Packfile Limit Adjusterのインストール]]></Title>
 		<Color>89, 0, 255</Color>
 		<Description><![CDATA[
-**カスタムGameconfig**  
+**Custom Gameconfig**  
 OpenIVを使い、`gameconfig.xml` を `GTA V/mods/update/update.rpf/common/data` にドラッグ＆ドロップします。
 
 **Heap Adjuster**  

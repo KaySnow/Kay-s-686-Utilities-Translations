@@ -1,6 +1,6 @@
 <Command>
-		<Name>武器MOD</Name>
-		<Title><![CDATA[武器のインストール方法]]></Title>
+		<Name>武器MODのインストール方法</Name>
+		<Title><![CDATA[武器MODのインストール方法]]></Title>
 		<Color>89, 0, 255</Color>
 		<Field>
 			<Name><![CDATA[すべての武器ファイルは以下の場所にインストールしてください:]]></Name>
