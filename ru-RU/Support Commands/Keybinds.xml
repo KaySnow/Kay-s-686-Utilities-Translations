@@ -1,0 +1,11 @@
+<Command>
+		<Name>Keybinds</Name>
+		<Title><![CDATA[Настройка и редактирование горячих клавиш.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Список действительных горячих клавиш. см. на веб-сайте Microsoft.]]></Description>
+  <Button>
+			<Label><![CDATA[Доступные Горячии Клавиши]]></Label>
+			<Url><![CDATA[https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=windowsdesktop-8.0]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>

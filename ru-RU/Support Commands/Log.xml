@@ -1,0 +1,7 @@
+<Command>
+		<Name>Log</Name>
+		<Title><![CDATA[Прикрепите лог RagePluginHook.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Пожалуйста прикрепите ваш `RagePluginHook.log` - это **текстовый документ**, который находиться в корневой папке игры; он **НЕ находиться в папке logs**]]></Description>
+</Command>

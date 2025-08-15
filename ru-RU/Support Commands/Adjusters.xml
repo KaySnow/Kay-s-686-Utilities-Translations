@@ -1,0 +1,21 @@
+<Command>
+		<Name>Adjusters</Name>
+		<Title><![CDATA[Установите Кастомный Gameconfig, Heap & Packfile Limit Adjuster.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Кастомный Gameconfig**\nИспользуя OpenIV, перетащите файл gameconfig.xml по пути GTA V/mods/update/update.rpf/common/data.\n\n**Heap Adjuster**\nПеретащите файлы Heapadjuster.asi и HeapAdjuster.ini в корневую папку GTAV.\n\n**Packfile Limit Adjuster**\nПеретащите файл PackfileLimitAdjuster.asi и PackfileLimitAdjuster.ini в корневую папку GTAV.]]></Description>
+		<Button>
+			<Label><![CDATA[Кастомный Gameconfig]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Heap Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Packfile Limit Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>

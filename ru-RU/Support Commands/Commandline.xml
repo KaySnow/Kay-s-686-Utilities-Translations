@@ -1,0 +1,6 @@
+<Command>
+		<Name>Commandline</Name>
+		<Title><![CDATA[Конфигурация commandline.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[В вашей директории GTAV есть файл под названием `commandline.txt`. Это текстовый документ. Удалите весь текст внутри этого документа затем добавьте `-windowed`.\nПосле завершения нажмите "Сохранить".]]></Description>
+	</Command>

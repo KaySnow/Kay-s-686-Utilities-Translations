@@ -1,0 +1,42 @@
+<Command>
+		<Name>Emergency Cars</Name>
+		<Title><![CDATA[Слоты для замены транспорта Экстренных Служб.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[### Полиция\n
+	`POLICE` - Stanier
+	`POLICE2` - Buffalo
+	`POLICE3` - Vapid Interceptor
+	`POLICE4` - Unmarked Stanier
+	`POLICE5` - Stanier LE Cruiser
+	`POLGAUNTLET` - Gauntlet Interceptor
+	`POLICEOLD1` - Rancher
+	`POLICEOLD2` - Esperanto
+	`POLICEB` - Bike
+	`POLICET` - Transporter	
+	`POLICET3` - Burrito (Bail Enforcement)
+	`POLDORADO` - Dorado Cruiser	
+	`POLGREENWOOD` - Greenwood Cruiser	
+	`POLIMPALER5` - Impaler SZ Cruiser	
+	`POLIMPALER6` - Impaler LX Cruiser	
+	`POLTERMINUS` - Terminus Patrol
+	`POLFACTION2` - Outreach Faction
+	`POLCOQUETTE4` - Coquette D10 Pursuit
+	`POLCARACARA` - Caracara Pursuit
+	`PREDATOR` - Police Boat	
+	`POLMAV` - Maverick
+	`RIOT` - Brute Riot
+	`RIOT2` - Brute RCV
+	`PRANGER` - Granger
+	\n### Шерифы
+	`SHERIFF` - Stanier
+	`SHERIFF2` - Declasse SUV
+	\n### FIB
+	`FBI` - Buffalo
+	`FBI2` - Declasse SUV
+	\n### Парамедики и Пожарные
+	`FIRETRUK` - MTL Firetruck
+	`AMBULANCE` - Brute Ambulance
+	\n### Спасатели
+	`LGUARD` - Declasse SUV
+	`BLAZER` - Quadbike]]></Description>
+	</Command>

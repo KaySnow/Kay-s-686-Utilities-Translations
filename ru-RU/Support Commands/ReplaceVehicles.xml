@@ -1,0 +1,10 @@
+<Command>
+		<Name>Replace Vehicles</Name>
+		<Title><![CDATA[Установка замены транспорта.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Все моды на замену транспорта (такие как 'police2') должны быть установленны по следующему пути:**\nGTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/]]></Description>
+		<Field>
+			<Name><![CDATA[Видео Туториал]]></Name>
+			<Value><![CDATA[Посмотрите этот [видео гайд](https://www.youtube.com/watch?v=SAGIisHY5gc) по установке замены транспорта.]]></Value>
+		</Field>
+	</Command>

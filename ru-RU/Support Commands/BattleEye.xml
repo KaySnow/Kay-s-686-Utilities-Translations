@@ -1,0 +1,13 @@
+<Command>
+		<Name>BattleEye</Name>
+		<Title><![CDATA[Отключение BattleEye.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[BattleEye это анти-чит который используется для защиты GTA Online. Он несовместим с моддингом GTAV, и должен быть отключен для игры с LSPDFR.
+		
+		Чтобы отключить BattleEye, перейдите в **Rockstar Games Launcher** > **Настройки** и **снимити галочку с опции BattleEye**.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/bayScit.png]]></ImageUrl>
+		<Field>
+			<Name><![CDATA[Если это не сработало, отключите BattleEye вручную.]]></Name>
+			<Value><![CDATA[Перейдите в папку с GTAV и добавьте следующий параметр в файл commandline.txt: `-nobattleye`]]></Value>
+		</Field>
+	</Command>
