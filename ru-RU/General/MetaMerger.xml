@@ -1,0 +1,18 @@
+<Translations>
+  <Title><![CDATA[686 Utilities: META Merger Tool]]></Title>
+  <MergeResultsHeader><![CDATA[{0} Результат Объединения:]]></MergeResultsHeader>
+  <MergeResultsDetectedFile><![CDATA[Обнаруженный файл: **{0}**]]></MergeResultsDetectedFile>
+  <MergeResultsAddedEntries><![CDATA[**Добавлен Ввод:** `{0}`]]></MergeResultsAddedEntries>
+  <MergeResultsModifiedEntries><![CDATA[**Изменён Ввод:** `{0}`]]></MergeResultsModifiedEntries>
+  <MergeResultsDiscardedEntries><![CDATA[**Отвергнут Ввод:** `{0}`]]></MergeResultsDiscardedEntries>
+
+  <OriginalFileHeader><![CDATA[Ваш оригинальный файл:]]></OriginalFileHeader>
+  <OriginalFileDescription><![CDATA[Этот файл был использован как оригинальная версия файла. Вы объединили другой файл с этим. Резервная копия доступна здесь.]]></OriginalFileDescription>
+
+  <ModifiedFileHeader><![CDATA[Ваш модифицированный файл:]]></ModifiedFileHeader>
+  <ModifiedFileDescription><![CDATA[Этот файл был использован как модифицированный файл. Для выбранного вами транспорта их ввод были изменён/добавлен в ваш оригинальный файл из этого файла. Резервная копия доступна здесь.]]></ModifiedFileDescription>
+
+  <MergedFileHeader><![CDATA[Ваш новый объединенный файл:]]></MergedFileHeader>
+  <MergedFileDescription><![CDATA[Этот файл Ваш новый объединенный файл. В нем объединены изменения из вашего модифицированного файла в оригинальный файл для выбранного вами транспорта.]]></MergedFileDescription>
+</Translations>
+

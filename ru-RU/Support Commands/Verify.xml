@@ -1,0 +1,21 @@
+<Command>
+		<Name>Verify your game files</Name>
+		<Title><![CDATA[Проверьте целостность файлов игры]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Чтобы выяснить, почему ваша игра не работает должным образом, проверьте файлы игры, воспользовавшись соответствующей ссылкой ниже.]]></Description>
+		<Button>
+			<Label><![CDATA[Epic Games]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/ru/c-Category_EpicGamesStore/c-EpicGamesStore_LauncherSupport/kak-proverit-fajly-igry-v-programme-zapuska-epic-games-a000084923]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Steam]]></Label>
+			<Url><![CDATA[https://help.steampowered.com/ru/faqs/view/0C48-FCBD-DA71-93EB]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Rockstar Games Launcher]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>

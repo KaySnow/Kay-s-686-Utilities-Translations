@@ -1,0 +1,6 @@
+<Command>
+		<Name>ENB</Name>
+		<Title><![CDATA[Загрузка GTAV с ENB.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Похоже у вас установлен ENB; он влияет на то, как RagePluginHook цепляется за GTAV.\nПоэтому вам нужно запустить GTAV без RAGE; только после того, как вы зайдёте в сюжетный режим используйте ALT + TAB, чтобы свернуть игру и запустите `RagePluginHook.exe` это позволит RPH зацепиться за игру.]]></Description>
+	</Command>

@@ -1,0 +1,6 @@
+<Command>
+		<Name>Common Paths</Name>
+		<Title><![CDATA[Основные пути установки:]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**dlclist.xml, gameconfig.xml, visualsettings.dat и handling.meta:** mods/update/update.rpf/common/data \n**vehicles.meta:**\nmods/update/update.rpf/common/data/levels/gta5 \n**carvariations.meta, carcols.meta:** mods/update/x64/dlcpacks/mpchristmas2/dlc/common/data\n\nОбщее\nНе заменяйте весь файл, так как что-то может пойти не так.\nВместо этого скопируйте и вставьте нужные строки, которые вы хотите изменить.]]></Description>
+	</Command>

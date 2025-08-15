@@ -1,0 +1,21 @@
+<Command>
+		<Name>Forcing a GTAV Update</Name>
+		<Title><![CDATA[Принудительное обновление GTAV.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Если ваша версия GTAV отстаёт от последней версии игры, возможно вам стоит принудительно обновить GTAV.\nДля того, чтобы это сделать, пожалуйста, удалите `GTAV.exe` и затем проверьте целостность файлов. Нажмите кнопку ниже, чтобы получить соответствующую инструкцию.]]></Description>
+		<Button>
+			<Label><![CDATA[Epic Games]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Steam]]></Label>
+			<Url><![CDATA[https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Rockstar Games Launcher]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>

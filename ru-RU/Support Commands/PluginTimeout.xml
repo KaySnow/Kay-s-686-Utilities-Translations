@@ -1,0 +1,7 @@
+<Command>
+		<Name>Timeout</Name>
+		<Title><![CDATA[Увеличьте параметр Plugin Timeout Threshold.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Увеличьте параметр Plugin Timeout Threshold до **60,000** - можно сделать в настройках RagePluginHook.\nЧтобы получить доступ к этим настройкам, удерживайте клавишу Shift при вместе с запуском RagePluginHook или нажмите на значок шестеренки на при запуске.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>

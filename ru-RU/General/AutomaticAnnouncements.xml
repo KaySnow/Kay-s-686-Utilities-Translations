@@ -1,0 +1,7 @@
+<Translations>
+  <Title><![CDATA[{0} обновлён.]]></Title>
+  <Description><![CDATA[Это автоматическое уведомление.]]></Description>
+  <OldVersion><![CDATA[Старая Версия]]></OldVersion>
+  <NewVersion><![CDATA[Новая Версия]]></NewVersion>
+  <Download><![CDATA[Скачать]]></Download>
+</Translations>

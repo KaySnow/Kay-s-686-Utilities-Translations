@@ -1,0 +1,103 @@
+<Guide id="install_eup" name="How to Install EUP">
+  <Author>Charlie686, переведено Dozel</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Как Установить EUP?]]></Title>
+    <Description><![CDATA[
+Emergency Uniforms Pack (EUP) добавляет в GTA V высококачественную униформу полиции, службы спасения и гражданскую одежду. Он разделен на несколько компонентов:
+
+**EUP Law & Order** – Ядро, базовый пак. Cодержит стандартную полицейскую форму и снаряжение. 
+      
+**EUP Serve & Rescue** – Добавляет форму пожарных, спасателей, парамедиков и других экстренных служб (крайне рекомендуется для избежания возможных проблем, хотя сам пак опционален).  
+      
+**EUP Menu** – Позволяет просматривать и применять EUP форму в игре через понятное и удобное меню.  
+      
+**EUP Configurations** – Добавляет пресеты униформы и xml конфиг файлы, которые позволяют персонажам LSPDFR использовать EUP.
+
+Мы рекомендуем установить все 4 компонента для лучшего опыта игры.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="laworder"><![CDATA[Установить Law & Order Pack]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Установить Serve & Rescue Pack]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[Установить EUP Menu]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[Установить Configurations]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="laworder">
+    <Title><![CDATA[Установка EUP Law & Order Pack]]></Title>
+    <Description><![CDATA[
+1. Скачать EUP Law & Order:  
+[**EUP Law & Order (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/)
+
+2. Скачайте `EUPLO8.3.oiv` (не LML версию).
+
+3. Перетащите `.OIV` файл на Рабочий Стол (или любое другое удобное место).
+
+4. Откройте **OpenIV** → Инструменты → Package Installer → выберите `.OIV` файл.
+
+5. Когда спросит, выбираем установку в папку **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Установить Serve & Rescue Pack]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="serveandrescue">
+    <Title><![CDATA[Установка EUP Serve & Rescue Pack]]></Title>
+    <Description><![CDATA[
+1. Скачать EUP Serve & Rescue:  
+[**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
+
+2. Скачайте `EUPSR1.5.oiv` (не LML версию).
+
+3. Перетащите `.OIV` файл на Рабочий Стол (или любое другое удобное место).
+
+4. Откройте **OpenIV** → Инструменты → Package Installer → выберите `.OIV` файл.
+
+5. Когда спросит, выбираем установку в папку **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="menu"><![CDATA[Установить EUP Menu]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="menu">
+    <Title><![CDATA[Установка EUP Menu]]></Title>
+    <Description><![CDATA[
+1. Скачать EUP Menu:  
+[**EUP Menu (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/)
+
+2. Перетащите папку `plugins` в корневую папку GTAV.
+
+3. Скачать [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) и разархивировать.
+
+4. Перетащите `RAGENativeUI.dll` в корневую папку GTAV. Если спросит, подтверждаем замену.
+
+5. 🚨 **Примичание:** *Файлы настроек создаются при первом запуске EUP Menu в игре.*
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="config"><![CDATA[Установить Configurations]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="config">
+    <Title><![CDATA[Установка EUP Configurations]]></Title>
+    <Description><![CDATA[
+1. Скачать конфиг файлы:  
+[**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
+или
+[**EUPFR Ultimate Edition (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/32429-eupfr-ultimate-edition/)
+🚨 **Примичание:** *Разница между Basic Configurations и Ultimate Edition в основном лишь в наличии большего количества агенств, например BCSO, RHPD, LSIA и т.д*
+
+2. Выберите `EUPFR Basic - without addon cars`, или `EUPFR UE - without car mods` (если используете Ultimate Edition).
+🚨 **Примичание:** *Обязательно выберайте `without car mods` или `without addon cars` если не планируете устанавливать множество требуемых паков транспорта*
+
+3. Откройте скачанный архив и найдите папку `data`.
+
+4. Перетащите папку `data` в `GTAV/lspdfr`.
+
+5. Соглашаемся с заменой если система спросит.
+    ]]></Description>
+  </Page>
+</Guide>
