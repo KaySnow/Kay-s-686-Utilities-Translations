@@ -1,0 +1,52 @@
+<Translations>
+  <FileUpdates><![CDATA[File Updates]]></FileUpdates>
+  <OldVersion><![CDATA[Старая Версия]]></OldVersion>
+  <NewVersion><![CDATA[Новая Версия]]></NewVersion>
+  <Version><![CDATA[Версия]]></Version>
+  <LatestVersion><![CDATA[Последняя Версия:]]></LatestVersion>
+  <Category><![CDATA[Категория]]></Category>
+  <Category2><![CDATA[Категория:]]></Category2>
+  <NewUpload><![CDATA[{0} был добавлен на сайт.]]></NewUpload>
+  <NewUpdate><![CDATA[{0} был обновлён.]]></NewUpdate>
+  <GetDMUpdates><![CDATA[Получать ЛС уведомления для этого файла!]]></GetDMUpdates>
+
+  <PanelTitle><![CDATA[686 Utilities: Ваши подписки на файлы LCPDFR.com]]></PanelTitle>
+  <PanelDescription><![CDATA[Вы получите уведомление в Личные Сообщения когда обновиться любой из этих файлов.
+Чтобы добавить новую подписку используйте кнопку 'Добавить Подписку'.]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[Всего подписок: {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[Предыдущая Страница]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[Следующая Страница]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[Добавить Подписку]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[Повторить Поиск]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[Управление Всеми Подписками]]></PanelManageAllSubscriptions>
+
+  <PanelSelectFilePlaceholder><![CDATA[Выберите файл ниже!]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[Подписаться на файл ниже!]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[Вы уже подписались на этот файл. Попробуйте обновить панель!]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[Вы уже отписались от этого файла. Попробуйте обновить панель!]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[Действие отменено.]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[Вы подписались на **{0}**.]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[Вы отписались от **{0}**.]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[Вы действительно хотите отписаться от обновлений **{0}**?]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[Вы действительно хотите подписаться на обновления **{0}**?]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[Да]]></PanelYes>
+  <PanelNo><![CDATA[Нет]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[Поиск файла!]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[Введите имя файла с LCPDFR.com]]></PanelSearchModalLabel>
+</Translations>
+
+<!--
+Перевод создан: 
+- Dozel
+
+с любовью из
+╔══╗─╔═══╗╔══╗╔══╗─╔═══╗╔╗╔╗╔══╗───╔═══╗╔╗╔╗╔══╗╔══╗╔═════╗╔══╗╔═══╗╔╗╔╗╔═══╗
+║╔╗╚╗║╔══╝║╔╗║║╔╗╚╗║╔═╗║║║║║╚═╗║───║╔═╗║║║║║║╔═╝║╔╗║║─╔╦╗─║║╔╗║║╔══╝║║║║║╔═╗║
+║║╚╗║║╚══╗║╚╝║║║╚╗║║╚═╝║║╚╝║──║║───║╚═╝║║╚╝║║║──║║║║║─║║║─║║║║║║╚══╗║╚╝║║╚═╝║
+║║─║║║╔══╝║╔╗║║║─║║║╔══╝╚═╗║──║║───║╔══╝╚═╗║║║──║║║║║─╚╩╝─║║║║║║╔═╗║║╔╗║╚╗╔╗║
+║╚═╝║║╚══╗║║║║║╚═╝║║║─────║║──║║───║║────╔╝║║╚═╗║╚╝║╚═╗─╔═╝║╚╝║║╚═╝║║║║║─║║║║
+╚═══╝╚═══╝╚╝╚╝╚═══╝╚╝─────╚╝──╚╝───╚╝────╚═╝╚══╝╚══╝──╚═╝──╚══╝╚═══╝╚╝╚╝─╚╝╚╝
+-->
