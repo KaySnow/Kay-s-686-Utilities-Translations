@@ -1,0 +1,22 @@
+<Command>
+		<Name>Ajustadores</Name>
+		<Title><![CDATA[Instale um Gameconfig personalizado, Heap e ajustador de limite de Packfile.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Configuração de Jogo Personalizada**\nUsando o OpenIV, arraste e solte o arquivo gameconfig.xml em
+`GTAV/mods/update/update.rpf/common/data`.\n\n**Ajustador de Heap**\nArraste os arquivos Heapadjuster.asi e HeapAdjuster.ini para o seu diretório principal.\n\n**Ajustador de Limite de Arquivo de Pacote**\nArraste os arquivos PackfileLimitAdjuster.asi e PackfileLimitAdjuster.ini para o seu diretório principal.]]></Description>
+		<Button>
+			<Label><![CDATA[Configuração de jogo personalizada]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/misc/24718-gameconfigxml-for-lml-or-manual-install-by-rde-team/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Ajustador de pilha]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Ajustador de Limite de Arquivo de Pacote]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>
