@@ -1,0 +1,5 @@
+This is a placeholder file for organization purposes. As English translations of guides are added, I will make Portuguese translated
+variants, obviously providing orginal author credits. As I also plan to monitor and add to both the Russian, German, and Spanish 
+translations, this is not my initial priority. 
+
+- zylas
