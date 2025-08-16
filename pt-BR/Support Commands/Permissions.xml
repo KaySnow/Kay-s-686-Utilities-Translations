@@ -1,0 +1,6 @@
+<Command>
+		<Name>Permissões</Name>
+		<Title><![CDATA[Configure as permissões da sua pasta GTAV.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Gostaríamos que você alterasse as permissões da sua pasta GTAV. Acesse a pasta GTAV, clique com o botão direito e selecione Propriedades - Segurança. Conceda controle total aos seguintes usuários:\n• Usuários.\n• SISTEMA.\n• Administrador.]]></Description>
+	</Command>
