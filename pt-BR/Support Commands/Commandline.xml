@@ -1,0 +1,6 @@
+<Command>
+		<Name>Linha de comando</Name>
+		<Title><![CDATA[Configurando sua linha de comando.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[No seu diretório GTAV, há um arquivo chamado **commandline**. Este é um documento de texto. Exclua todo o texto dentro do documento e adicione `-windowed`.\nQuando terminar, clique em salvar.]]></Description>
+	</Command>

@@ -1,0 +1,17 @@
+<Translations>
+  <Title><![CDATA[686 Utilities: Ferramenta de fusão META]]></Title>
+  <MergeResultsHeader><![CDATA[{0} Resultados da Mesclagem:]]></MergeResultsHeader>
+  <MergeResultsDetectedFile><![CDATA[Arquivo detectado: **{0}**]]></MergeResultsDetectedFile>
+  <MergeResultsAddedEntries><![CDATA[**Entradas adicionadas:** `{0}`]]></MergeResultsAddedEntries>
+  <MergeResultsModifiedEntries><![CDATA[**Entradas modificadas:** `{0}`]]></MergeResultsModifiedEntries>
+  <MergeResultsDiscardedEntries><![CDATA[**Entradas descartadas:** `{0}`]]></MergeResultsDiscardedEntries>
+
+  <OriginalFileHeader><![CDATA[Seu arquivo original carregado:]]></OriginalFileHeader>
+  <OriginalFileDescription><![CDATA[Este arquivo foi usado como arquivo base. Você mesclou seu outro arquivo a este. Um backup do arquivo está disponível aqui.]]></OriginalFileDescription>
+
+  <ModifiedFileHeader><![CDATA[Seu arquivo modificado carregado:]]></ModifiedFileHeader>
+  <ModifiedFileDescription><![CDATA[Este arquivo foi usado como arquivo modificado. Para os veículos escolhidos, as entradas foram modificadas/adicionadas ao seu arquivo original, a partir deste arquivo. Um backup do arquivo está disponível aqui.]]></ModifiedFileDescription>
+
+  <MergedFileHeader><![CDATA[Seu novo arquivo mesclado:]]></MergedFileHeader>
+  <MergedFileDescription><![CDATA[Este arquivo é o seu novo arquivo mesclado. Ele mescla as alterações do seu arquivo modificado no arquivo original, para os veículos selecionados.]]></MergedFileDescription>
+</Translations>

@@ -1,0 +1,6 @@
+<Command>
+		<Name>Caminhos de instalação comuns</Name>
+		<Title><![CDATA[Caminhos de instalação comuns:]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**dlclist.xml, gameconfig.xml, visualsettings.dat e handling.meta:** mods/update/update.rpf/common/data \n**vehicles.meta:**\nmods/update/update.rpf/common/data/levels/gta5 \n**carvariations.meta, carcols.meta:** mods/update/x64/dlcpacks/mpchristmas2/dlc/common/data\n\nInformações gerais\nNão substitua o arquivo inteiro, pois isso pode dar errado.\nEm vez disso, copie e cole as linhas desejadas que você gostaria de alterar.]]></Description>
+	</Command>

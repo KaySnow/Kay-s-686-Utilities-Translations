@@ -1,0 +1,11 @@
+<Command>
+		<Name>Exceção de antivírus</Name>
+		<Title><![CDATA[Exceção de antivírus.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Por favor, torne o diretório GTAV uma exceção para o seu antivírus e o Windows Defender. Para o seu antivírus específico, use o Google ou a documentação da sua solução antivírus específica para obter instruções.]]></Description>
+		<Button>
+			<Label><![CDATA[Segurança do Windows]]></Label>
+			<Url><![CDATA[https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26]]></Url>
+			<Style>Link</Style>
+		</Button>
+	</Command>

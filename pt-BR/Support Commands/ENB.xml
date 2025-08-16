@@ -1,0 +1,6 @@
+<Command>
+		<Name>ENB</Name>
+		<Title><![CDATA[Carregando GTAV com ENB.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Parece que você tem o ENB instalado; isso afeta como o RagePluginHook se conecta ao GTAV.\nPortanto, você precisa carregar o GTAV sem o RAGE; somente quando estiver no modo história você pode pressionar ALT + TAB e iniciar, permitindo que ele se conecte.]]></Description>
+	</Command>

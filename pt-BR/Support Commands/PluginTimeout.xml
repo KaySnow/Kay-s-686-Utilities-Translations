@@ -1,0 +1,7 @@
+<Command>
+		<Name>Tempo esgotado</Name>
+		<Title><![CDATA[Aumente o limite de tempo limite do plugin.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Aumente o Limite de Tempo Limite do Plugin para **60.000** - isso pode ser feito nas configurações do RAGE.\nPara acessar essas configurações, segure Shift enquanto abre o RAGE ou pressione a engrenagem na tela inicial.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>

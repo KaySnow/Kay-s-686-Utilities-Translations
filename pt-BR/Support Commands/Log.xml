@@ -1,0 +1,7 @@
+<Command>
+		<Name>Log</Name>
+		<Title><![CDATA[Anexe seu log RagePluginHook.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Anexe seu log do RagePluginHook - um **documento de texto** encontrado em seu diretório principal; ele **não foi encontrado em sua pasta de logs.**]]></Description>
+</Command>
