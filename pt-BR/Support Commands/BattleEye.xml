@@ -1,0 +1,13 @@
+<Command>
+		<Name>BattleEye</Name>
+		<Title><![CDATA[Desativar BattleEye.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[BattleEye é um software antitrapaça. Ele é incompatível com modificações no GTAV e deve ser desativado para que o LSPDFR funcione corretamente.
+
+Para desativá-lo, acesse o **Rockstar Games Launcher** > **Configurações** e **desmarque a opção**.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/bayScit.png]]></ImageUrl>
+		<Field>
+			<Name><![CDATA[Se isso não funcionar, desative-o manualmente.]]></Name>
+			<Value><![CDATA[Vá para a pasta GTAV e adicione o seguinte ao seu commandline.txt: `-nobattleye`]]></Value>
+		</Field>
+	</Command>
