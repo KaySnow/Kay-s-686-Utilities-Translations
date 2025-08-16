@@ -1,0 +1,21 @@
+<Command>
+		<Name>Links principais</Name>
+		<Title><![CDATA[Links principais.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**LSPDFR e RAGEPluginHook**\nInstale a instalação manual e arraste e solte todos os arquivos, exceto as licenças e o arquivo leia-me, no seu diretório principal.\n\n**ScriptHookV**\nIgnorando NativeTrainer.asi, arraste e solte os arquivos no seu diretório principal.\n\n**OpenIV**\nBaixe o executável do Windows e execute o instalador.]]></Description>
+		<Button>
+			<Label><![CDATA[LSPDFR e RAGEPluginHook]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[ScriptHookV]]></Label>
+			<Url><![CDATA[http://www.dev-c.com/gtav/scripthookv/]]></Url>
+			<Style>Link</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[OpenIV]]></Label>
+			<Url><![CDATA[https://www.lcpdfr.com/downloads/gta5mods/scripts/43441-openiv-archive-mirror/]]></Url>
+			<Style>Link</Style>
+		</Button>
+</Command>
