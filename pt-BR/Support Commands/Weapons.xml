@@ -1,0 +1,9 @@
+<Command>
+		<Name>Armas</Name>
+		<Title><![CDATA[Instalando armas.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Field>
+			<Name><![CDATA[Todas as armas devem ser instaladas em:]]></Name>
+			<Value><![CDATA[GTAV/mods/update/x64/dlcpacks/patchday10ng/dlc.rpf/x64/models/cdimages/weapons.rpf]]></Value>
+		</Field>
+	</Command>
