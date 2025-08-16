@@ -43,4 +43,5 @@
           <Field name="Can I replace or add 'reflective' textures to my car?" inline="true"><[CDATA[
 In order for a vehicle to have a reflective texture, it **must** be added by the vehicle's author. Simply adding a reflective texture a texture developer made will not automatically make the vehicle reflective. Second, the author must provide a texture without a background to it to make it appropriately reflective. Once done, you will need to follow the same instructions again, but this time search for "ref" or "reflective"
         ]]></Field>
+      ]]></Description>
       </Page>
