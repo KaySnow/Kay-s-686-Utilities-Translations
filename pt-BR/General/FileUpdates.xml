@@ -1,0 +1,39 @@
+<Translations>
+  <FileUpdates><![CDATA[Atualizações de arquivo]]></FileUpdates>
+  <OldVersion><![CDATA[Versão antiga]]></OldVersion>
+  <NewVersion><![CDATA[Nova versão]]></NewVersion>
+  <Version><![CDATA[Versão]]></Version>
+  <LatestVersion><![CDATA[Versão infantil:]]></LatestVersion>
+  <Category><![CDATA[Categoria]]></Category>
+  <Category2><![CDATA[Categoria:]]></Category2>
+  <NewUpload><![CDATA[{0} foi publicado.]]></NewUpload>
+  <NewUpdate><![CDATA[{0} foi atualizado.]]></NewUpdate>
+  <GetDMUpdates><![CDATA[Receba atualizações por mensagem direta para este arquivo!]]></GetDMUpdates>
+
+  <PanelTitle><![CDATA[686 Utilities: Suas assinaturas LCPDFR.com]]></PanelTitle>
+  <PanelDescription><![CDATA[Você receberá uma Mensagem Direta quando qualquer um desses arquivos for atualizado.
+Para adicionar uma nova assinatura, use "Adicionar Assinatura".]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[Total de assinaturas:: {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[Página anterior]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[Próxima página]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[Adicionar assinatura]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[Pesquisar novamente]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[Gerenciar todas as assinaturas]]></PanelManageAllSubscriptions>
+
+  <PanelSelectFilePlaceholder><![CDATA[Selecione um arquivo abaixo!]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[Assine um arquivo abaixo!]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[Você já está inscrito neste arquivo. Tente atualizar seu painel!]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[Você já cancelou a assinatura deste arquivo. Tente atualizar seu painel!]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[Ação cancelada.]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[Inscrito em **{0}**.]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[Cancelado de **{0}**.]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[Deseja cancelar a inscrição de **{0}**?]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[Gostaria de assinar **{0}**?]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[Sim]]></PanelYes>
+  <PanelNo><![CDATA[Não]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[Procure um arquivo!]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[Digite o nome do arquivo em LCPDFR.com]]></PanelSearchModalLabel>
+</Translations>
