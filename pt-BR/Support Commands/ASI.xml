@@ -1,0 +1,6 @@
+<Command>
+		<Name>ASI</Name>
+		<Title><![CDATA[Desabilitando seus scripts .asi.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Mova **dinput8.dll** (ASI Loader) para fora da sua pasta GTAV e tente novamente. \nSe remover dinput8.dll resolver o seu problema, então o problema reside em um dos seus arquivos .asi; um exemplo é ELS.asi. \n\nPara ajudar a diagnosticar melhor este problema, **mova todos os arquivos .asi** do seu diretório principal para a sua área de trabalho.\nEm seguida, adicione dinput8.dll novamente ao seu diretório principal.\n\nAdicione novamente os seus arquivos .asi individualmente e teste se o seu jogo funciona. Depois de identificar qual arquivo .asi está causando o problema, informe-nos.]]></Description>
+</Command>
