@@ -8,7 +8,7 @@
 
     To start, you will need OpenIV, a vehicle you wish to replace the liveries of, and the texture you wish to add to the vehicle. 
     
-      To make sure the vehicle livery you wish to install will fit, check the vehicle author's description on the LCPDFR website and navigate to the "Credits" tab. You should see a list of the vehicle bases used on the pack. Make sure the author of the base corresponds with the vehicle livery's author, which will typically be in the description or credits of the creator's file.
+    To make sure the vehicle livery you wish to install will fit, check the vehicle author's description on the LCPDFR website and navigate to the "Credits" tab. You should see a list of the vehicle bases used on the pack. Make sure the author of the base corresponds with the vehicle livery's author, which will typically be in the description or credits of the creator's file.
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="install"><![CDATA[Installation Guide]]></Button>
