@@ -22,14 +22,14 @@
     <Description><![CDATA[
     Note: Your pathway may vary slightly if you are using an add-on vehicle. This guide is intended for replacement vehicles.
 
-        1. Navigate to the vehicle file, for replacement vehicles, this is at `GTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/`
-        2. Locate the texture file (.YTD file) of the vehicle you wish to replace (ex `police2.ytd`).
-        3. Right-click the file and click edit.
-        4. Locate the texture file inside the YTD. As the name varies depending on the vehicle, some good names to search for are "livery" and "sign".
-        5. Right-click the box and click "replace". Locate the PNG or DDS file of the livery you wish to use.
-        6. Import the file and save your changes.
-        7. If there is a secondary texture file (ex `police2_hi.ytd`) repeat steps 3-6. However, they may not always be a "livery" or "sign" texture in this secondary file. It will never be named differently.
-        8. Locate the model file (.YFT file) 
+    1. Navigate to the vehicle file, for replacement vehicles, this is at `GTAV/mods/update/x64/dlcpacks/patch2025_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/`
+    2. Locate the texture file (.YTD file) of the vehicle you wish to replace (ex `police2.ytd`).
+    3. Right-click the file and click edit.
+    4. Locate the texture file inside the YTD. As the name varies depending on the vehicle, some good names to search for are "livery" and "sign".
+    5. Right-click the box and click "replace". Locate the PNG or DDS file of the livery you wish to use.
+    6. Import the file and save your changes.
+    7. If there is a secondary texture file (ex `police2_hi.ytd`) repeat steps 3-6. However, they may not always be a "livery" or "sign" texture in this secondary file. It will never be named differently.
+    8. Locate the model file (.YFT file) and open it. **Do not attempt to modify.** If your livery appears correct, you have successfully completed the guide! If your livery appears distorted or misplaced, it is likely on the wrong vehicle base.
 
     To view your new liveries in-game, spawn your vehicle and check the "livery" menu option under vehicle options.
     ]]></Description>
@@ -41,9 +41,12 @@
     ]]></Description>
     <Fields>
       <Field name="Can I replace or add 'reflective' textures to my car?" inline="true"><![CDATA[
-In order for a vehicle to have a reflective texture, it **must** be added by the vehicle's author. Simply adding a reflective texture a texture developer made will not automatically make the vehicle reflective. Second, the author must provide a texture without a background to it to make it appropriately reflective. Once done, you will need to follow the same instructions again, but this time search for "ref" or "reflective"
+    In order for a vehicle to have a reflective texture, it **must** be added by the vehicle's author. Simply adding a reflective texture a texture developer made will not automatically make the vehicle reflective. Second, the author must provide a texture without a background to it to make it appropriately reflective. Once done, you will need to follow the same instructions again, but this time search for "ref" or "reflective"
       ]]></Field>
-    </Fields>
+      <Field name="Can I replace or add window textures to my car?" inline="true"><![CDATA[
+    Yes! Follow the instructions again, though instead of searching for the vehicles liveries, you need to search for "window", "win", or "glass". **Not all vehicles have window textures.** \n\nTo view this change in-game, you will need to change your vehicle's "window tint" option.
+     ]]></Field>
+      </Fields>
   </Page>
 
 </Guide>
