@@ -5,6 +5,6 @@
 		<Description><![CDATA[Please rename your mods folder to **_mods** and retry.\nNote that all custom vehicles, uniforms, and anything else in your mods folder will not load.]]></Description>
 		<Field>
 			<Name><![CDATA[Has this fixed your problem?]]></Name>
-			<Value><![CDATA[This means the issue resides in your mods folder.\nBut, we are unable to know what specifically is causing the problem.\n\nFirst, make sure you have a Custom Gameconfig, Heap Adjuster & Packfile Limit Adjuster.\nIf not, run the `!adjusters` command for their respective links.\n\n**If you have them installed, then you can:**\nA) Revert any recent changes you've made to your mods folder.\nB) Delete your mods folder & create a new one.]]></Value>
+			<Value><![CDATA[This means the issue resides in your mods folder.\nBut, we are unable to know what specifically is causing the problem.\n\nFirst, make sure you have a Custom Gameconfig, Heap Adjuster & Packfile Limit Adjuster.\nIf not, run the `/support Adjusters` command for their respective links.\n\n**If you have them installed, then you can:**\nA) Revert any recent changes you've made to your mods folder.\nB) Delete your mods folder & create a new one.]]></Value>
 		</Field>
 	</Command>
