@@ -5,6 +5,6 @@
 		<Description><![CDATA[Renomeie sua pasta de mods para **_mods** e tente novamente.\nObserve que todos os veículos personalizados, uniformes e qualquer outra coisa na sua pasta de mods não serão carregados.]]></Description>
 		<Field>
 			<Name><![CDATA[Isso resolveu seu problema?]]></Name>
-			<Value><![CDATA[Isso significa que o problema está na sua pasta mods.\nMas não conseguimos saber o que está causando o problema especificamente.\n\nPrimeiro, certifique-se de ter um Custom Gameconfig, Heap Adjuster e Packfile Limit Adjuster.\nCaso contrário, execute o comando `!adjusters` para seus respectivos links.\n\n**Se você os tiver instalados, poderá:**\nA) Reverter quaisquer alterações recentes feitas na sua pasta mods.\nB) Excluir sua pasta mods e criar uma nova.]]></Value>
+			<Value><![CDATA[Isso significa que o problema está na sua pasta mods.\nMas não conseguimos saber o que está causando o problema especificamente.\n\nPrimeiro, certifique-se de ter um Custom Gameconfig, Heap Adjuster e Packfile Limit Adjuster.\nCaso contrário, execute o comando `/support Adjusters` para seus respectivos links.\n\n**Se você os tiver instalados, poderá:**\nA) Reverter quaisquer alterações recentes feitas na sua pasta mods.\nB) Excluir sua pasta mods e criar uma nova.]]></Value>
 		</Field>
 	</Command>
