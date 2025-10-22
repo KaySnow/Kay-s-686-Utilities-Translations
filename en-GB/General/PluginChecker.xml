@@ -8,6 +8,8 @@
   <Status_UpToDate><![CDATA[`🟩 UP TO DATE`
 -# *This file is **up to date** {0}.*]]></Status_UpToDate>
 
+  <Status_UpToDate2><![CDATA[and is built for {0}]]></Status_UpToDate2>
+
   <Status_OutOfDate><![CDATA[`⚠️ OUTDATED`
 -# *This file is **not** up to date and is built for {0}*]]></Status_OutOfDate>
 
