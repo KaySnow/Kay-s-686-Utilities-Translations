@@ -1,7 +1,7 @@
 <Translations>
   <!-- Spam Bot User View -->
   <EndUser_Header><![CDATA[## You were flagged as a bot.]]></EndUser_Header>
-  <EndUser_Description><![CDATA[Your access to **{0}** has been revoked for a month for bot-spamming.
+  <EndUser_Description><![CDATA[You received a month timeout in **{0}** for bot-spamming.
 
 Please see the flagged message contents below. If you have regained access to your account, you will be able to revoke your timeout early by interacting with the button below.]]></EndUser_Description>
 
