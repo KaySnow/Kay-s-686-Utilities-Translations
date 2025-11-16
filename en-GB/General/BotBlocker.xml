@@ -21,8 +21,6 @@ Please see the flagged message contents below. If you have regained access to yo
   <Mod_Button_ViewFlagged><![CDATA[View Flagged Message]]></Mod_Button_ViewFlagged>
   <Mod_Button_Revoke_By><![CDATA[Timeout revoked by {0}]]></Mod_Button_Revoke_By>
 
-   <Mod_Button_Revoke_By><![CDATA[Timeout revoked by {0}]]></Mod_Button_Revoke_By>
-
   <!-- Moderator Announcement -->
   <Mod_Announce_Revoked><![CDATA[{0} has marked their account as **secure** and their timeout was revoked for bot-spamming.]]></Mod_Announce_Revoked>
 
