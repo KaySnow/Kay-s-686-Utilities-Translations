@@ -26,4 +26,9 @@ Veuillez consulter ci-dessous le contenu du message signalé. Si vous avez de no
 
   <!-- Spam Bot User Confirmation -->
   <EndUser_RevokedConfirmation><![CDATA[Votre délai d'expiration a été révoqué dans **{0}**.]]></EndUser_RevokedConfirmation>
+
+    <!-- Manual Flags -->
+    <EndUser_ManualFlag><![CDATA[Vous avez été signalé manuellement comme robot spammeur, aucun aperçu du message n'est donc disponible.]]></EndUser_ManualFlag>
+    <Mod_NotFound><![CDATA[Cet utilisateur ne fait plus partie de ce serveur.]]></Mod_NotFound>
+    <Mod_ManualFlag><![CDATA[**Cet utilisateur a été signalé manuellement pour spam de robots.** Il recevra un message privé l'informant qu'il a été signalé.]]></Mod_ManualFlag>
 </Translations>
