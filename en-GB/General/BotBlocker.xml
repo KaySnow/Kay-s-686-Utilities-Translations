@@ -30,8 +30,8 @@ Please see the flagged message contents below. If you have regained access to yo
   <EndUser_RevokedConfirmation><![CDATA[Your timeout has been revoked in **{0}**.]]></EndUser_RevokedConfirmation>
 
   <!-- Manual Flags -->
-    <EndUser_ManualFlag><![CDATA[You were flagged as a spam bot manually, so no message preview is available.</EndUser_ManualFlag>
-    <Mod_NotFound><![CDATA[This user is no longer apart of this server.</Mod_NotFound>
-    <Mod_ManualFlag><![CDATA[**This user was manually marked for bot-spamming.** They'll receive a DM to state they've been flagged.</Mod_ManualFlag>
+    <EndUser_ManualFlag><![CDATA[You were flagged as a spam bot manually, so no message preview is available.]]></EndUser_ManualFlag>
+    <Mod_NotFound><![CDATA[This user is no longer apart of this server.]]></Mod_NotFound>
+    <Mod_ManualFlag><![CDATA[**This user was manually marked for bot-spamming.** They'll receive a DM to state they've been flagged.]]></Mod_ManualFlag>
 
 </Translations>
