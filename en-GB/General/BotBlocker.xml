@@ -1,0 +1,35 @@
+<Translations>
+  <!-- Spam Bot User View -->
+  <EndUser_Header><![CDATA[## You were flagged as a bot.]]></EndUser_Header>
+  <EndUser_Description><![CDATA[You received a month timeout in **{0}** for bot-spamming.
+
+Please see the flagged message contents below. If you have regained access to your account, you will be able to revoke your timeout early by interacting with the button below.]]></EndUser_Description>
+
+  <EndUser_Button_Secured><![CDATA[You marked your account as secured]]></EndUser_Button_Secured>
+  <EndUser_Button_Unsecured><![CDATA[I have secured my account]]></EndUser_Button_Unsecured>
+  
+  <!-- Moderator View -->
+  <Mod_Header><![CDATA[## {0} was flagged as a bot.]]></Mod_Header>
+  <Mod_Description><![CDATA[Their access to the server was revoked for a month.
+
+{0}]]></Mod_Description>
+
+  <Mod_DM_Sent><![CDATA[A **Direct Message was sent** to the user allowing them to revoke their timeout by clicking a button stating they have 'regained access to their account'.]]></Mod_DM_Sent>
+  <Mod_DM_NotSent><![CDATA[A **Direct Message was not sent** to the user as they were closed. They will not be able to revoke their timeout themselves.]]></Mod_DM_NotSent>
+
+  <Mod_Button_Revoke><![CDATA[Revoke Timeout Early]]></Mod_Button_Revoke>
+  <Mod_Button_ViewFlagged><![CDATA[View Flagged Message]]></Mod_Button_ViewFlagged>
+  <Mod_Button_Revoke_By><![CDATA[Timeout revoked by {0}]]></Mod_Button_Revoke_By>
+
+  <!-- Moderator Announcement -->
+  <Mod_Announce_Revoked><![CDATA[{0} has marked their account as **secure** and their timeout was revoked for bot-spamming.]]></Mod_Announce_Revoked>
+
+  <!-- Spam Bot User Confirmation -->
+  <EndUser_RevokedConfirmation><![CDATA[Your timeout has been revoked in **{0}**.]]></EndUser_RevokedConfirmation>
+
+  <!-- Manual Flags -->
+    <EndUser_ManualFlag><![CDATA[You were flagged as a spam bot manually, so no message preview is available.]]></EndUser_ManualFlag>
+    <Mod_NotFound><![CDATA[That user is no longer apart of this server.]]></Mod_NotFound>
+    <Mod_ManualFlag><![CDATA[**This user was manually marked for bot-spamming.** They'll receive a DM to state they've been flagged.]]></Mod_ManualFlag>
+
+</Translations>

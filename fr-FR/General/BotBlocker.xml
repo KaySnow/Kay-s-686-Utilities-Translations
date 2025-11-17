@@ -1,0 +1,34 @@
+<Translations>
+  <!-- Spam Bot User View -->
+  <EndUser_Header><![CDATA[## Vous avez été signalé comme un robot.]]></EndUser_Header>
+  <EndUser_Description><![CDATA[Vous avez reçu un délai d'expiration d'un mois en **{0}** pour spam de bot.
+
+Veuillez consulter ci-dessous le contenu du message signalé. Si vous avez de nouveau accès à votre compte, vous pourrez révoquer votre suspension anticipée en cliquant sur le bouton ci-dessous.]]></EndUser_Description>
+
+  <EndUser_Button_Secured><![CDATA[Vous avez marqué votre compte comme sécurisé.]]></EndUser_Button_Secured>
+  <EndUser_Button_Unsecured><![CDATA[J'ai sécurisé mon compte.]]></EndUser_Button_Unsecured>
+  
+  <!-- Moderator View -->
+  <Mod_Header><![CDATA[## {0} a été signalé comme un robot.]]></Mod_Header>
+  <Mod_Description><![CDATA[Leur accès au serveur a été suspendu pour un mois.
+
+{0}]]></Mod_Description>
+
+  <Mod_DM_Sent><![CDATA[Un **Message direct a été envoyé** à l'utilisateur, lui permettant de révoquer sa période d'inactivité en cliquant sur un bouton indiquant qu'il a « retrouvé l'accès à son compte »..]]></Mod_DM_Sent>
+  <Mod_DM_NotSent><![CDATA[Aucun **message direct n'a pu être envoyé** à l'utilisateur car son compte était fermé. Il ne pourra pas révoquer lui-même sa suspension de compte.]]></Mod_DM_NotSent>
+
+  <Mod_Button_Revoke><![CDATA[Révoquer le délai d'expiration prématuré]]></Mod_Button_Revoke>
+  <Mod_Button_ViewFlagged><![CDATA[Afficher le message signalé]]></Mod_Button_ViewFlagged>
+  <Mod_Button_Revoke_By><![CDATA[Délai d'attente expiré révoqué par {0}]]></Mod_Button_Revoke_By>
+
+  <!-- Moderator Announcement -->
+  <Mod_Announce_Revoked><![CDATA[{0} a marqué son compte comme **sécurisé** et sa suspension pour spam de bot a été révoquée.]]></Mod_Announce_Revoked>
+
+  <!-- Spam Bot User Confirmation -->
+  <EndUser_RevokedConfirmation><![CDATA[Votre délai d'expiration a été révoqué dans **{0}**.]]></EndUser_RevokedConfirmation>
+
+    <!-- Manual Flags -->
+    <EndUser_ManualFlag><![CDATA[Vous avez été signalé manuellement comme robot spammeur, aucun aperçu du message n'est donc disponible.]]></EndUser_ManualFlag>
+    <Mod_NotFound><![CDATA[Cet utilisateur ne fait plus partie de ce serveur.]]></Mod_NotFound>
+    <Mod_ManualFlag><![CDATA[**Cet utilisateur a été signalé manuellement pour spam de robots.** Il recevra un message privé l'informant qu'il a été signalé.]]></Mod_ManualFlag>
+</Translations>
