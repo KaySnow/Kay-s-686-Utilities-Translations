@@ -1,0 +1,35 @@
+<Translations>
+  <!-- Spam Bot User View -->
+  <EndUser_Header><![CDATA[## Você foi identificado como um robô.]]></EndUser_Header>
+  <EndUser_Description><![CDATA[Você recebeu uma suspensão de um mês em **{0}** por spam de bots.
+
+Veja o conteúdo da mensagem sinalizada abaixo. Se você recuperou o acesso à sua conta, poderá revogar a suspensão antecipadamente interagindo com o botão abaixo.]]></EndUser_Description>
+
+  <EndUser_Button_Secured><![CDATA[Você marcou sua conta como segura.]]></EndUser_Button_Secured>
+  <EndUser_Button_Unsecured><![CDATA[Protegi minha conta.]]></EndUser_Button_Unsecured>
+  
+  <!-- Moderator View -->
+  <Mod_Header><![CDATA[## {0} foi sinalizado como um robô.]]></Mod_Header>
+  <Mod_Description><![CDATA[O acesso deles ao servidor foi revogado por um mês.
+
+{0}]]></Mod_Description>
+
+  <Mod_DM_Sent><![CDATA[Uma **Mensagem Direta foi enviada** ao usuário, permitindo que ele revogasse o tempo limite clicando em um botão que informava que ele havia 'recuperado o acesso à sua conta'.]]></Mod_DM_Sent>
+  <Mod_DM_NotSent><![CDATA[Uma **Mensagem Direta não foi enviada** ao usuário, pois a sessão foi encerrada. Ele não poderá revogar o tempo limite por conta própria.]]></Mod_DM_NotSent>
+
+  <Mod_Button_Revoke><![CDATA[Revogar tempo limite antecipadamente]]></Mod_Button_Revoke>
+  <Mod_Button_ViewFlagged><![CDATA[Ver mensagem sinalizada]]></Mod_Button_ViewFlagged>
+  <Mod_Button_Revoke_By><![CDATA[Tempo limite revogado por {0}]]></Mod_Button_Revoke_By>
+
+  <!-- Moderator Announcement -->
+  <Mod_Announce_Revoked><![CDATA[{0} marcou sua conta como **segura** e seu tempo limite foi revogado por spam de bots.]]></Mod_Announce_Revoked>
+
+  <!-- Spam Bot User Confirmation -->
+  <EndUser_RevokedConfirmation><![CDATA[Seu tempo limite foi revogado em **{0}**.]]></EndUser_RevokedConfirmation>
+
+  <!-- Manual Flags -->
+    <EndUser_ManualFlag><![CDATA[Você foi sinalizado manualmente como um robô de spam, portanto, não é possível visualizar a mensagem antes de enviá-la.]]></EndUser_ManualFlag>
+    <Mod_NotFound><![CDATA[Esse usuário não faz mais parte deste servidor.]]></Mod_NotFound>
+    <Mod_ManualFlag><![CDATA[**Este usuário foi marcado manualmente por envio de spam por bots.** Ele receberá uma mensagem direta informando que foi sinalizado.]]></Mod_ManualFlag>
+
+</Translations>
