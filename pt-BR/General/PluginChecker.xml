@@ -1,0 +1,34 @@
+<Translations>
+  <Header><![CDATA[## {0}]]></Header>
+
+  <ViewLatest><![CDATA[Veja as informações mais recentes sobre este **{0}**.]]></ViewLatest>
+
+  <StatusLabel><![CDATA[**Status:** {0}]]></StatusLabel>
+
+  <Status_UpToDate><![CDATA[`🟩 ATUALIZADO`
+-# *Este arquivo está **atualizado** {0}.*]]></Status_UpToDate>
+
+  <Status_UpToDate2><![CDATA[e foi desenvolvido para {0}]]></Status_UpToDate2>
+
+  <Status_OutOfDate><![CDATA[`⚠️ DESATUALIZADO`
+-# *Este arquivo **não** está atualizado e foi criado para {0}*]]></Status_OutOfDate>
+
+  <Status_Unknown><![CDATA[`DESCONHECIDO`
+-# *O estado deste arquivo é desconhecido.*]]></Status_Unknown>
+
+  <LCPDFRVersion><![CDATA[**LCPDFR.com Version:** `{0}`]]></LCPDFRVersion>
+  <LCPDFRVersionNote><![CDATA[-# *This is the version listed on the LCPDFR.com file page.*]]></LCPDFRVersionNote>
+
+  <FileVersion><![CDATA[**File Versão:** `{0}`]]></FileVersion>
+  <FileVersionNote><![CDATA[-# *Esta é a versão listada pelo arquivo no log do RagePluginHook.*]]></FileVersionNote>
+
+  <FileIssues><![CDATA[**Problemas com arquivos:** {0}]]></FileIssues>
+
+  <Type_GTAV><![CDATA[GTAV Arquivo]]></Type_GTAV>
+  <Type_LSPDFR><![CDATA[LSPDFR plugin]]></Type_LSPDFR>
+  <Type_RPH><![CDATA[RPH plugin]]></Type_RPH>
+  <Type_File><![CDATA[Arquivo]]></Type_File>
+
+  <Btn_GetDMUpdates><![CDATA[Receba atualizações por mensagem direta sobre este arquivo!]]></Btn_GetDMUpdates>
+  <Btn_VisitFilePage><![CDATA[Visite a página do arquivo.]]></Btn_VisitFilePage>
+</Translations>
