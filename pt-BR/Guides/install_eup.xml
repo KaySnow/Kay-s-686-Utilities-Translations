@@ -1,5 +1,5 @@
 <Guide id="install_eup" name="Como instalar o EUP">
-  <Author>Charlie686</Author>
+  <Author>Zylas</Author>
 
   <Page id="home">
     <Title><![CDATA[HComo faço para instalar o EUP?]]></Title>
@@ -48,7 +48,7 @@ Recomendamos instalar todos os 4 componentes para a melhor experiência.
     <Description><![CDATA[
 1. Baixe o EUP Serve & Rescue:
 [**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
-
+      
 2. Baixe o arquivo `EUPSR1.5.oiv` (não o pacote LML) e extraia-o.
 
 3. Arraste o arquivo `.OIV` para a sua área de trabalho.
