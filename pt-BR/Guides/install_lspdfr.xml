@@ -1,0 +1,51 @@
+<Guide id="install_lspdfr" name="Como instalar o LSPDFR">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Como faço para instalar o LSPDFR?]]></Title>
+    <Description><![CDATA[
+Para começar, use o botão 'Download LSPDFR', que o levará à página de Primeiros Socorros da LSPD.
+Ao fazer o download, certifique-se de escolher a **Instalação Manual**.
+]]></Description>
+    <ImageUrl>https://i.imgur.com/M6o9uAJ.png</ImageUrl>
+    <Fields>
+      <Field name="E quanto ao RAGEPluginHook?" inline="true"><![CDATA[
+O RAGEPluginHook já está incluído no próprio download do LSPDFR.]]></Field>
+    </Fields>
+    <Buttons>
+      <Button type="interactive" targetPage="manualinstall"><![CDATA[Instalando a Instalação Manual]]></Button>
+      <Button type="link" url="https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/"><![CDATA[Download LSPDFR]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="manualinstall">
+    <Title><![CDATA[Instalando o LSPDFR através da Instalação Manual.]]></Title>
+    <Description><![CDATA[
+Abra o instalador manual do LSPD First Response e você verá vários arquivos e algumas pastas.
+
+Arraste e solte todos os arquivos e pastas, exceto o arquivo `RPH_Readme.txt` e a pasta `Licenses`, na sua pasta do GTA V.
+
+**Se solicitado, clique em Substituir todos os arquivos.**
+]]></Description>
+    <ImageUrl>https://i.imgur.com/UpFP9YY.png</ImageUrl>
+    <Buttons>
+      <Button type="interactive" targetPage="firsttime"><![CDATA[Executando o LSPDFR pela primeira vez]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="firsttime">
+    <Title><![CDATA[Executando o LSPDFR pela primeira vez]]></Title>
+    <Description><![CDATA[
+Execute o arquivo `RAGEPluginHook.exe` na pasta do GTAV.
+Ele irá guiá-lo pela configuração inicial e, em seguida, iniciar o GTAV.
+]]></Description>
+    <Fields>
+      <Field name="Antes de jogar, certifique-se de:" inline="false"><![CDATA[
+Você já completou o prólogo de GTAV. O LSPDFR exige que você esteja no modo livre para funcionar corretamente.
+]]></Field>
+      <Field name="Estou no jogo com o RAGEPluginHook, porém o LSPDFR não está carregado?" inline="false"><![CDATA[
+Você pode precisar carregá-lo no jogo. Abra o console RPH (F4 por padrão) e digite `LoadPlugin LSPD First Response.dll`.
+]]></Field>
+    </Fields>
+  </Page>
+</Guide>
