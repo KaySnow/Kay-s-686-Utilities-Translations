@@ -1,0 +1,87 @@
+<Guide id="install_vehicles" name="Como instalar em veículos">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Veículos de substituição vs. veículos adicionais]]></Title>
+    <Description><![CDATA[
+Ao instalar veículos no LSPDFR, você geralmente tem duas opções:
+
+- **Substituir Veículos** sobrescreve um veículo existente no jogo (ex.: `police3`) colocando os arquivos na pasta do patchday mais recente.
+
+- **Veículos Adicionais** criam espaços totalmente novos para veículos adicionando uma nova entrada de DLC nos arquivos do jogo.
+
+🚨 **Observação:** Essas categorias nem sempre são rígidas. Às vezes, pacotes de veículos podem ser projetados para substituir, mas são instalados como complementos, e vice-versa.
+    ]]></Description>
+    <Fields>
+      <Field name="Qual deles devo usar?" inline="false"><![CDATA[
+Se o seu pacote de veículos vier com arquivos `.yft` e `.ytd`, provavelmente é um pacote de **substituição**.
+
+Se vier com uma pasta completa e instruções sobre o arquivo `dlclist.xml`, provavelmente é um **complemento**.
+      ]]></Field>
+    </Fields>
+    <Buttons>
+      <Button type="interactive" targetPage="replace"><![CDATA[Instalar um veículo substituto]]></Button>
+      <Button type="interactive" targetPage="addon"><![CDATA[Instalar um veículo adicional]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="replace">
+    <Title><![CDATA[Instalar um veículo substituto]]></Title>
+    <Description><![CDATA[
+1. Renomeie os arquivos de veículos, se necessário (por exemplo, `police3.yft`, `police3.ytd`, etc.).
+2. Selecione todos os arquivos `.yft` e `.ytd` relevantes (incluindo aqueles com `_hi`).
+3. Arraste e solte-os na pasta do seu patchday mais recente usando o OpenIV. Você pode encontrar esse caminho usando o comando `/support Replace`.
+4. Se precisar modificar algum arquivo de texto, como `vehicles.meta`, substitua as entradas dos veículos que você está modificando, em vez de sobrescrever o arquivo inteiro.
+      ]]></Description>
+    <ImageUrl>https://i.imgur.com/QbrJ3fA.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" targetPage="els"><![CDATA[São veículos ELS?]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[Não consigo arrastar e soltar/editar o arquivo.]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="addon">
+    <Title><![CDATA[Instalando um veículo adicional]]></Title>
+    <Description><![CDATA[
+1. No OpenIV, acesse: `GTAV/mods/update/x64/dlcpacks`
+2. Arraste e solte toda a **pasta do veículo** (por exemplo, `carpack`) nesse diretório.
+3. Navegue até: `GTAV/mods/update/update.rpf/common/data/dlclist.xml`
+4. Adicione a seguinte linha ao final da lista:
+
+<Item>dlcpacks:/carpack/</Item>
+
+🔁 Substitua `carpack` pelo nome real da pasta do veículo que você adicionou na etapa 2.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/peQEB2g.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" targetPage="els"><![CDATA[São veículos ELS?]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[Não consigo arrastar e soltar/editar o arquivo.]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="els">
+    <Title><![CDATA[Certifique-se de instalar o arquivo ELS para veículos ELS!]]></Title>
+    <Description><![CDATA[
+Certifique-se de instalar os arquivos `.xml` que acompanham os pacotes de veículos compatíveis com ELS.
+
+Eles devem ser instalados na seguinte pasta:
+`GTAV/ELS/pack_default`
+
+Sem esses arquivos XML, a iluminação de emergência pode não funcionar corretamente.
+    ]]></Description>
+    <Buttons>
+      <Button type="link" url="https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/"><![CDATA[What is ELS?]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="dragdrop">
+    <Title><![CDATA[Não consigo arrastar e soltar/editar arquivos no OpenIV.]]></Title>
+    <Description><![CDATA[
+Está com problemas para arrastar ou editar arquivos no OpenIV? Tente estas etapas:
+
+1. Certifique-se de que o **Modo de Edição** esteja ativado (canto superior direito).
+2. Extraia o arquivo ZIP ou RAR baixado antes de tentar instalar.
+3. Para arquivos `.meta`, `.xml` ou arquivos de texto, **clique com o botão direito do mouse > Editar** em vez de apenas clicar duas vezes para abri-los.
+]]></Description>
+  </Page>
+</Guide>
