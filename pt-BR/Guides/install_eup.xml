@@ -1,0 +1,99 @@
+<Guide id="install_eup" name="Como instalar o EUP">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[HComo faço para instalar o EUP?]]></Title>
+    <Description><![CDATA[
+O Pacote de Uniformes de Emergência (EUP) adiciona uniformes de alta qualidade para policiais, equipes de resgate e civis ao GTA V. Ele é dividido em vários componentes:
+
+**EUP Lei e Ordem** – O pacote principal contendo uniformes e equipamentos policiais padrão.
+
+**EUP Serviço e Resgate** – Adiciona uniformes de bombeiros, paramédicos e outros serviços de emergência (opcional, mas recomendado).
+
+**Menu EUP** – Permite navegar e aplicar os uniformes do EUP no jogo através de um menu intuitivo.
+
+**Configurações EUP** – Adiciona predefinições de uniformes e arquivos de configuração para uso com personagens do LSPDFR.
+
+Recomendamos instalar todos os 4 componentes para a melhor experiência.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="laworder"><![CDATA[Instale o pacote Law & Order.]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Instalar o pacote Serve & Rescue]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[Instalar o menu EUP]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[Instalar configurações]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="laworder">
+    <Title><![CDATA[Instalando o pacote EUP Law & Order]]></Title>
+    <Description><![CDATA[
+1. Baixe o EUP Law & Order:
+[**EUP Law & Order (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/)
+
+2. Baixe o arquivo `EUPLO8.3.oiv` (não o pacote LML) e extraia-o.
+
+3. Arraste o arquivo `.OIV` para a sua área de trabalho.
+
+4. Abra o **OpenIV** → Ferramentas → Instalador de Pacotes → selecione o arquivo `.OIV`.
+
+5. Quando solicitado, instale na pasta **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Instalar o pacote Serve & Rescue]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="serveandrescue">
+    <Title><![CDATA[Instalar o pacote Serve & Rescue]]></Title>
+    <Description><![CDATA[
+1. Baixe o EUP Serve & Rescue:
+[**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
+
+2. Baixe o arquivo `EUPSR1.5.oiv` (não o pacote LML) e extraia-o.
+
+3. Arraste o arquivo `.OIV` para a sua área de trabalho.
+
+4. Abra o **OpenIV** → Ferramentas → Instalador de Pacotes → selecione o arquivo `.OIV`.
+
+5. Quando solicitado, instale na pasta **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="menu"><![CDATA[Install EUP Menu]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="menu">
+    <Title><![CDATA[Instalar o menu EUP]]></Title>
+    <Description><![CDATA[
+1. Baixe o EUP Menu:
+[**EUP Menu (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/)
+
+2. Arraste e solte a pasta `plugins` no diretório principal do seu GTA V.
+
+3. Baixe o [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) e extraia-o.
+
+4. Arraste o arquivo `RAGENativeUI.dll` para o diretório principal do seu GTA V.
+
+5. Observe que seus arquivos de personalização do EUP são gerados quando você carrega o EUP Menu no jogo pela primeira vez.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="config"><![CDATA[Install Configurations]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="config">
+    <Title><![CDATA[Instalar configurações]></Title>
+    <Description><![CDATA[
+1. Baixe os arquivos de configuração:
+[**Configurações Básicas do EUPFR (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
+
+2. Escolha `EUPFR Básico - sem carros adicionais` ou `EUPFR UE - sem modificações de carros` (se estiver usando a Ultimate Edition).
+
+3. Abra a pasta selecionada e localize a pasta `data`.
+
+4. Arraste e solte a pasta `data` em `GTAV/lspdfr`.
+
+5. Substitua os arquivos, se solicitado.
+    ]]></Description>
+  </Page>
+</Guide>
