@@ -1,5 +1,5 @@
 <Guide id="install_sirensorgunsounds" name="Instalação de sons de armas ou sirenes veiculares">
-  <Author>Charlie686</Author>
+  <Author>Zylas</Author>
 
   <Page id="home">
     <Title><![CDATA[Instalação de sons de armas ou sirenes veiculares]]></Title>
@@ -29,7 +29,7 @@ Se o seu mod de sons de sirene/armas vier com um arquivo `.oac` e uma pasta `veh
 
 (Isso irá reconstruir o arquivo `vehicles.awc` automaticamente.)
 
-:rotating_light: Se for solicitado a sobrescrever, clique em **Sim**.
+🚨 Se for solicitado a sobrescrever, clique em **Sim**.
     ]]></Description>
   </Page>
 
