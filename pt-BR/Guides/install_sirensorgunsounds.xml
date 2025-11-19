@@ -1,0 +1,75 @@
+<Guide id="install_sirensorgunsounds" name="Instalação de sons de armas ou sirenes veiculares">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Instalação de sons de armas ou sirenes veiculares]]></Title>
+    <Description><![CDATA[
+Os sons de sirene/tiros podem vir em vários formatos diferentes. Os passos para instalá-los variam dependendo do que você baixou.
+
+**Em que formato está o seu mod de sirene?****
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="format_oac"><![CDATA[.oac Arquivo (OpenFormats)]]></Button>
+      <Button type="interactive" targetPage="format_awc"><![CDATA[.awc Arquivo Apenas]]></Button>
+      <Button type="interactive" targetPage="format_wav"><![CDATA[.wav Arquivo Apenas]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="format_oac">
+    <Title><![CDATA[Instalando um pacote de sons de sirene ou armas .oac]]></Title>
+    <Description><![CDATA[
+Se o seu mod de sons de sirene/armas vier com um arquivo `.oac` e uma pasta `vehicles`, siga estes passos:
+
+1. Abra o OpenIV e vá para:
+
+`GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Certifique-se de que o **Modo de Edição** esteja ativado.
+
+3. Arraste e solte o arquivo `.oac` nesta pasta.
+
+(Isso irá reconstruir o arquivo `vehicles.awc` automaticamente.)
+
+:rotating_light: Se for solicitado a sobrescrever, clique em **Sim**.
+    ]]></Description>
+  </Page>
+
+  <Page id="format_awc">
+    <Title><![CDATA[Instalando um pacote de sons de sirene ou armas .awc]]></Title>
+    <Description><![CDATA[
+Se o seu mod de sirene vier com um arquivo `vehicles.awc` pré-compilado:
+
+1. Abra o OpenIV e vá para:
+
+`GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Ative o **Modo de Edição**.
+
+3. Arraste e solte o arquivo `vehicles.awc` nesta pasta.
+    ]]></Description>
+  </Page>
+
+  <Page id="format_wav">
+    <Title><![CDATA[Instalando um pacote de sons de sirene ou armas .wav]]></Title>
+    <Description><![CDATA[
+Se o seu mod de sirene vier apenas com arquivos `.wav` brutos:
+
+1. Abra o OpenIV e vá para:
+
+`GTAV/mods/x64/audio/sfx/resident.rpf`
+2. Clique com o botão direito em `vehicles.awc` > **Exportar para OpenFormats**
+
+Exporte para uma pasta vazia.
+
+3. Você verá agora uma pasta `vehicles` e um arquivo `.oac`.
+
+4. Substitua os arquivos `.wav` dentro da pasta `vehicles` pelos arquivos do seu mod de sirene/sons de armas.
+
+5. Arraste o arquivo `.oac` de volta para `resident.rpf` para reconstruir o arquivo `.awc`.
+
+📺 Need help? Watch this video guide:  
+[YouTube: Instalar sons de sirenes/armas com arquivos .wav](https://www.youtube.com/watch?v=ymLrNTjGBXA)
+    ]]></Description>
+    <Buttons>
+      <Button type="link" url="https://www.youtube.com/watch?v=ymLrNTjGBXA"><![CDATA[Assista ao guia em vídeo]]></Button>
+    </Buttons>
+  </Page>
+</Guide>
